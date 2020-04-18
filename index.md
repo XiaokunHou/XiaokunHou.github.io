@@ -5,8 +5,8 @@ layout: page
 callouts: home_callouts
 show_sidebar: false
 menubar: example_menu
-hero_height: is-small
 hero_darken: true
+hero_height: is-small
 ---
 
 # Under construction
