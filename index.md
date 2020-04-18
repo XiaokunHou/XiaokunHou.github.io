@@ -1,6 +1,6 @@
 ---
 title: Cultural Processes & Groups Lab
-subtitle: Directed by Dr G. A. Travaglino, University of Kent.
+subtitle: Dr G. A. Travaglino, University of Kent (PI)
 layout: page
 callouts: home_callouts
 show_sidebar: false
