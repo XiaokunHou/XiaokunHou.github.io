@@ -1,7 +1,6 @@
 ---
-title: Cultural Processes & Groups
-subtitle: Research Lab
-subtitle: Directed by Dr G. A. Travaglino, lecturer in social & organizational psychology, University of Kent.
+title: Cultural Processes & Groups Lab
+subtitle: Directed by Dr G. A. Travaglino, University of Kent.
 layout: page
 callouts: home_callouts
 show_sidebar: false
