@@ -1,8 +1,8 @@
-- label: Example Menu
+- label: Menu
   items:
     - name: Home
       link: /
-    - name: Pages
+    - name: Projects
       link: /#
       items:
         - name: Page With Sidebar 
@@ -23,5 +23,5 @@
           link: /landing/
         - name: Sponsors Page
           link: /sponsors/
-    - name: Blog
-      link: /blog/
+    - name: Notebook
+      link: /notebook/
