@@ -1,5 +1,5 @@
 ---
-title: Lab
+title: Lab and Collaborators
 layout: page
 callouts: home_callouts
 show_sidebar: false
