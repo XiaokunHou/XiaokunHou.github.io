@@ -1,4 +1,4 @@
-- name: Pages
+- name: Projects
   link: /#
   dropdown:
     - name: Page With Sidebar
@@ -19,9 +19,7 @@
       link: /landing/
     - name: Sponsors Page
       link: /sponsors/
-- name: Products
+- name: Lab
   link: /products/
-- name: Showcase
-  link: /showcase/
-- name: Blog
-  link: /blog/
+- name: Notebook
+  link: /notebook/
