@@ -10,8 +10,8 @@ permalink: pretty
 #favicon: /path/to/favicon.png
 #gh_sponsor: chrisrhymes
 
-paginate: 5
-paginate_path: "/blog/page:num"
+paginate: 4
+paginate_path: "/notebook/page:num"
 
 # Disqus Comments
 disqus:
