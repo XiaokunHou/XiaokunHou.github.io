@@ -5,14 +5,14 @@ items:
     subtitle: Contact me for questions about my research, comments, and collaborations
     icon: fa-envelope
     call_to_action_name: Contact me
-    call_to_action_link: "mailto:g.a.travaglino@kent.ac.uk"
+    call_to_action_link: mailto:g.a.travaglino@kent.ac.uk
   - title: Blog included
-    subtitle: Layouts for blog and post pages included
+    subtitle: Layouts for blog and post pages included                                
     icon: fa-mail-bulk
     call_to_action_name: UU
     call_to_action_link: Uuu
   - title: Read more about my research
-    subtitle: Check out my article
+    subtitle: Read my papers                                                           
     icon: fab fa-researchgate
     call_to_action_name: Contact me
     call_to_action_link: https://www.researchgate.net/profile/Giovanni_Travaglino
