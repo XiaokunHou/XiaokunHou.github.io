@@ -1,7 +1,7 @@
 style: is-light
 height: is-medium
 items:
-  - title: Get in touch
+  - title: Contact
     subtitle: 
     icon: fa-envelope
     description: >
@@ -15,8 +15,8 @@ items:
     description: >
       Read comments, research and analyses in our lab notebook.
       Posts in English or Italian      
-    call_to_action_name: Follow us
-    call_to_action_link: https://twitter.com/GioTravaglino
+    call_to_action_name: Read
+    call_to_action_link: /notebook/
   - title: Read more about our research
     subtitle:                                                         
     icon: fab fa-researchgate
