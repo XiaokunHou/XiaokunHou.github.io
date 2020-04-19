@@ -3,11 +3,11 @@ title: CP&G
 tagline: Research Lab
 email: g.a.travaglino@kent.ac.uk
 description: >
-  Personal research page
+  The research page of the Cultural Processes & Groups Research Lab at the University of Kent. Research on organized crime, political behavior and culture
 baseurl: ""
 url: "https://gatravaglino.github.io/"
 permalink: pretty
-#favicon: /path/to/favicon.png
+favicon: /path/to/favicon.png
 #gh_sponsor: chrisrhymes
 
 paginate: 4
@@ -18,7 +18,7 @@ disqus:
   # Leave shortname blank to disable comments site-wide.
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   # shortname: my_disqus_shortname
-  shortname: cp&grl
+  shortname: cpg-uni
 
 
 plugins:
