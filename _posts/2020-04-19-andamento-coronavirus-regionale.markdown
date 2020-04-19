@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Andamento regione per regione"
+hero_height: is-small
+title:  "Coronavirus: Andamento regionale in Italia"
 date:   2020-04-19
 categories: coronavirus
 description: "I dati sul coronavirus in Italia, regione per regione"
