@@ -3,12 +3,12 @@ layout: post
 comments: true
 hero_height: is-small
 title:  "Coronavirus: Andamento regionale in Italia"
-date:   2020-04-19
+date:   2020-03-26
 categories: coronavirus
 description: "I dati sul coronavirus in Italia, regione per regione"
 image: 'https://gatravaglino.github.io/img/corona/cov.jpg'
 published: true
-canonical_url: https://gatravaglino.github.io/coronavirus/2020/04/19-andamento-coronavirus-regionale.markdown.html
+canonical_url: https://gatravaglino.github.io/coronavirus/2020/03/26-andamento-coronavirus-regionale.markdown.html
 ---
 
 In questi giorni si vedono numeri ovunque. Quando si parla di COVID19, si parla innanzitutto di numeri. Ed i numeri vengono usati per fare paragoni, stilare classifiche. È quindi necessario fare un po' di chiarezza. I numeri assoluti di casi sono veramente poco utili per fare paragoni fra regioni. Molto più utile è la prevalenza di casi in relazione al numero di abitanti (che varia molto, da regione in regione in Italia). 
