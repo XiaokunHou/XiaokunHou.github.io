@@ -7,7 +7,7 @@ description: >
 baseurl: ""
 url: "https://gatravaglino.github.io/"
 permalink: pretty
-favicon: /path/to/favicon.png
+favicon: /favicon.png
 #gh_sponsor: chrisrhymes
 
 paginate: 4
