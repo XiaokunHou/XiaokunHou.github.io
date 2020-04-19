@@ -2,17 +2,27 @@ style: is-light
 height: is-medium
 items:
   - title: Get in touch
-    subtitle: Contact me for questions about my research, comments, and collaborations
+    subtitle: 
     icon: fa-envelope
+    description: >
+    Contact my lab for questions about our research, comments, and collaborations.
+    
     call_to_action_name: Contact me
     call_to_action_link: mailto:g.a.travaglino@kent.ac.uk
-  - title: Blog included
-    subtitle: Layouts for blog and post pages included                                
+  - title: Under construction
+    subtitle:                                 
     icon: fa-mail-bulk
+    description: >
+    
+    
     call_to_action_name: UU
     call_to_action_link: Uuu
   - title: Read more about my research
-    subtitle: Read my papers                                                           
+    subtitle:                                                         
     icon: fab fa-researchgate
+    description: >
+    You can find most of our article open access at the following link.
+    
+    
     call_to_action_name: Contact me
     call_to_action_link: https://www.researchgate.net/profile/Giovanni_Travaglino
