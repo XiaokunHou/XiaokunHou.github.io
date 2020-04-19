@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About
-hide_hero: true
+hero_darken: true
+hero_height: is-small
 show_sidebar: false
 hide_footer: true
 ---
