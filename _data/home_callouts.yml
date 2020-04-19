@@ -7,21 +7,21 @@ items:
     description: >
       Contact my lab for questions about our research, comments, and collaborations.
       
-    call_to_action_name: Contact me
+    call_to_action_name: Contact us
     call_to_action_link: mailto:g.a.travaglino@kent.ac.uk
-  - title: Under construction
+  - title: Check out the lab notebook
     subtitle:                                 
-    icon: fa-mail-bulk
+    icon: fa-book-reader
     description: >
-      
-      
-    call_to_action_name: UU
-    call_to_action_link: Uuu
-  - title: Read more about my research
+      Read comments, research and analyses in our lab notebook.
+      Posts in English or Italian      
+    call_to_action_name: Follow us
+    call_to_action_link: https://twitter.com/GioTravaglino
+  - title: Read more about our research
     subtitle:                                                         
     icon: fab fa-researchgate
     description: >
-      You can find most of our article open access at the following link.
+      You can find most of our articles, open access, at this link.
       
-    call_to_action_name: Contact me
+    call_to_action_name: Explore
     call_to_action_link: https://www.researchgate.net/profile/Giovanni_Travaglino
