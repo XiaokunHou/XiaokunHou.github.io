@@ -7,7 +7,7 @@ show_sidebar: false
 hero_darken: true
 hero_height: is-large
 hero_link: /*/
-hero_link_text: Take part to our research
+hero_link_text: Take part in our research
 show_sidebar: false
 ---
 
