@@ -1,11 +1,18 @@
 style: is-light
+height: is-medium
 items:
-  - title: Multiple page layouts
-    subtitle: Including sidebar, menubar, tabs and callouts
-    icon: fa-copy
+  - title: Get in touch
+    subtitle: Contact me for questions about my research, comments, and collaborations
+    icon: fa-envelope
+    call_to_action_name: Contact me
+    call_to_action_link: "mailto:g.a.travaglino@kent.ac.uk"
   - title: Blog included
     subtitle: Layouts for blog and post pages included
     icon: fa-mail-bulk
-  - title: Works with GitHub Pages
-    subtitle: Quick and easy to get started
+    call_to_action_name: UU
+    call_to_action_link: Uuu
+  - title: Read more about my research
+    subtitle: Check out my article
     icon: fab fa-researchgate
+    call_to_action_name: Contact me
+    call_to_action_link: https://www.researchgate.net/profile/Giovanni_Travaglino
