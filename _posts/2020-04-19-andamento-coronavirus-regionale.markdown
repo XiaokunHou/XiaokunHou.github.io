@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 hero_height: is-small
 title:  "Coronavirus: Andamento regionale in Italia"
 date:   2020-04-19
