@@ -42,3 +42,9 @@ Un paio di lezioni da tutto ciò:
 2. I dati crudi non servono per fare confronti. 
 
 E forse i giornali dovrebbero cambiare strategia se vogliono informare a dovere.
+
+
+***
+Dati: protezione civile
+Img: Photo by [Fusion Medical Animation](https://unsplash.com/@fusion_medical_animation) on [Unsplash](https://unsplash.com)
+Grafici prodotti usando R and ggplot2
