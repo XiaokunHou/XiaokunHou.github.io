@@ -3,7 +3,7 @@ title: Contention
 subtitle: The Multidisciplinary Journal of Social Protest
 layout: product
 image: https://via.placeholder.com/640x480
-price: false
+show_sidebar: false
 features:
     - label: Research on Political Behaviour, Protest & Contention Politics
       icon: fa-fist-raised
