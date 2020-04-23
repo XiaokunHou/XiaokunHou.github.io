@@ -14,9 +14,9 @@ features:
 ---
 
 ## Contention
-Contention is co-edited at the **Cultural Processes and Groups Lab**.
+Contention is the journal co-hosted by the **Cultural Processes and Groups Lab**, at the University of Kent. The journal was first funded in 2014 and it has now reached its eight volume and ffteenth issue. 
 
-Editors: Dr. Benjamin Abrams (University College London) & Dr. Giovanni A. Travaglino (University of Kent)
+**Editors**: Dr. Benjamin Abrams (University College London) & Dr. Giovanni A. Travaglino (University of Kent)
 
 **Contention** is dedicated to research on social protest, collective action and contentious politics. As a multidisciplinary journal, Contention’s mission is to bridge scholarly divides and promote knowledge exchange across a diverse audience of scholars in the social sciences and humanities. The journal publishes articles by academics and practitioners on topics spanning the full range of social and political contention.
 
