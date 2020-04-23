@@ -6,7 +6,7 @@ image: https://via.placeholder.com/640x480
 show_sidebar: false
 features:
     - label: Research on Political Behaviour, Protest & Contention Politics
-      icon: fa-fist-raised
+      icon: fas fa-fist-raised
     - label: Interdisciplinary
       icon: fa-university
     - label: Published by [Berghahn Journal](https://www.berghahnjournals.com/view/journals/contention/contention-overview.xml?tab_body=About)
