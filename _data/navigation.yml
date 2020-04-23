@@ -23,5 +23,7 @@
   link: /lab/
 - name: Notebook
   link: /notebook/
+- name: Contention
+  link: /contention/ 
 - name: About
   link: /about/
