@@ -7,7 +7,7 @@ show_sidebar: false
 features:
     - label: Research on Political Behaviour, Protest & Contention Politics
       icon: fas fa-bullhorn
-    - label: Interdisciplinary
+    - label: Interdisciplinary Journal
       icon: fa-university
     - label: Published by Berghahn Journal
       icon: fas fa-book
