@@ -28,5 +28,5 @@ Contention welcomes research articles that expand our knowledge of contentious p
 
 Contention is indexed/abstracted in:
 
-- European Reference Index for the Humanities and the Social Sciences (ERIH PLUS)
-- Scopus (Elsevier)
+- *European Reference Index for the Humanities and the Social Sciences (ERIH PLUS)
+- *Scopus (Elsevier)
