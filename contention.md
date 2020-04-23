@@ -9,7 +9,7 @@ features:
       icon: fas fa-fist-raised
     - label: Interdisciplinary
       icon: fa-university
-    - label: Published by [Berghahn Journal](https://www.berghahnjournals.com/view/journals/contention/contention-overview.xml?tab_body=About)
+    - label: Published by Berghahn Journal
       icon: fas fa-book
 ---
 
