@@ -24,7 +24,7 @@ Contention welcomes research articles that expand our knowledge of contentious p
 
 > For more information and to submit your work [follow this link](https://www.berghahnjournals.com/view/journals/contention/contention-overview.xml?tab_body=About)
 
-### Indexing/Abstracting
+**Indexing/Abstracting**
 
 Contention is indexed/abstracted in:
 
