@@ -16,7 +16,9 @@ The report describes a series of chosen variables. It focuses on the 75,570 resp
 
 The countries included in the analyses, and the respective sample size, are: **Austria** (279), **Belgium** (557), **Bulgaria** (4,538), **Croatia** (2,909), **Cyprus** (34), **Czech Republic** (1,344), **Denmark** (10,327), **Estonia** (34), **Finland** (20,810), **France** (12,446), **Germany** (1,271), **Greece** (628), **Hungary** (1,427), **Ireland** (209), **Italy** (1,370), **Latvia** (22), **Lithuania** (8,056), **Luxembourg** (59), **Malta** (21), **Netherlands** (1256), **Poland** (3,052), **Portugal** (827), **Romania** (189), **Slovakia** (597), **Slovenia** (21), **Spain** (554), **Sweden** (2,733).
 
-![Grafico 1](/img/rep1/eumap.jpg)
+<p float="left">
+  <img src="/img/rep1/eumap.jpg" width="550" />
+</p>
 
 At the time of writing (April 20th, 2020), data collection is still ongoing. The sample is an organic convenience sample. Results are not descriptive of entire countries, but they provide important insights into the ongoing situation across different countries in Europe.
 
