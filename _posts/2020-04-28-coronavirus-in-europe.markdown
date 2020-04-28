@@ -3,7 +3,7 @@ layout: post
 comments: true
 hero_height: is-small
 title:  "How is the COVID19 Pandemic Affecting European Lives?"
-date:   2020-04-28
+date: 2020-04-28
 categories: coronavirus report research
 description: "First Report on the COVIDiSTRESS Global Survey"
 image: 'https://gatravaglino.github.io/img/rep1/covistress.jpg'
@@ -99,7 +99,7 @@ Countries in Eastern Europe and Greece reported lower trust in the WHO. Croatiaâ
 
 
 ***
-**Open science and open access**
+***Open science and open access***
 The COVIDiSTRESS global survey is an open science collaboration, mounted by researchers in over 40 countries to rapidly and organically collect data on human experiences of the Coronavirus epidemic 2020.
 
 This executive summary focuses on stress levels, sources of stress and trust in institutions across the EU. Data collection is ongoing (see collection protocol at OSF.org), and further analyses will come out as we receive the data. As an open science project, anyone with an interest can access the raw data, cleaned versions of the dataset ready for analysis, and lists of all the variables, which also include factors like loneliness, media use, personality, social provisions and perceived sources of psychological relief.
