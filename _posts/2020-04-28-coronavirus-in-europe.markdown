@@ -54,8 +54,8 @@ psychologists Cohen, Karmak, and Mermelstrein (1983). This scale measures partic
 Levels of stress remained fairly stable over the middle of April, with a small decrease between April 4th and April 13th. Overall levels of stress remained higher in women compared to men throughout the period under consideration.
 
 <p float="left">
-  <img src="/img/rep1/changestressm.png" width="300" />
-  <img src="/img/rep1/changestressf.png" width="300" /> 
+  <img src="/img/rep1/changestressm.png" width="400" />
+  <img src="/img/rep1/changestressf.png" width="400" /> 
 </p>
 
 ## Sources of Distress among Europeans during the COVID19 Pandemic
