@@ -4,18 +4,15 @@ comments: true
 hero_height: is-small
 title:  "How is the COVID19 Pandemic Affecting European Lives?"
 date:   2020-04-28
-categories: coronavirus; report; research
+categories: coronavirus report research
 description: "First Report on the COVIDiSTRESS Global Survey"
 image: 'https://gatravaglino.github.io/img/rep1/covistress.jpg'
 published: true
 canonical_url: https://gatravaglino.github.io/coronavirus/2020-04-28-coronavirus-in-europe.markdown.html
-toc: true
 ---
-[Download the report](https://osf.io/v6wgx/)
-
 The coronavirus COVID-19 pandemic is an unprecedented health crisis. Nearly a third of the global population is undergoing some form of curfew, isolation, or are being placed under restrictive measures (Kaplan, Frias & McFall-Johnsen, 2020). Therefore, it is not surprising that the spread of COVID-19 could soon turn into a serious psychological, social and political emergency. The COVIDiSTRESS global survey was designed by an international group of social scientists from more than fifty universities to measure the psychological correlates and implications of the current crisis. The study has so far involved more than 150,000 individual respondents from over than 50 different countries, sharing their experience of the human consequences of the crisis. 
 
-The report below describes a series of chosen variables. It focuses on the 75,570 respondents from the 27 countries composing the European Union (EU) who answered the survey between March 30th and April 20th.
+The report describes a series of chosen variables. It focuses on the 75,570 respondents from the 27 countries composing the European Union (EU) who answered the survey between March 30th and April 20th. [Download the report here](https://osf.io/v6wgx/)
 
 The countries included in the analyses, and the respective sample size, are: **Austria** (279), **Belgium** (557), **Bulgaria** (4,538), **Croatia** (2,909), **Cyprus** (34), **Czech Republic** (1,344), **Denmark** (10,327), **Estonia** (34), **Finland** (20,810), **France** (12,446), **Germany** (1,271), **Greece** (628), **Hungary** (1,427), **Ireland** (209), **Italy** (1,370), **Latvia** (22), **Lithuania** (8,056), **Luxembourg** (59), **Malta** (21), **Netherlands** (1256), **Poland** (3,052), **Portugal** (827), **Romania** (189), **Slovakia** (597), **Slovenia** (21), **Spain** (554), **Sweden** (2,733).
 
@@ -33,18 +30,25 @@ The majority of respondents (67.16%) were in full-time, part-time work or self-e
 
 ![Grafico 3](/img/rep1/employment.png)
 
-The age of the respondents ranged from 18 to 110, with a median age of 38. ![Grafico 4](/img/rep1/age.png)
+The age of the respondents ranged from 18 to 110, with a median age of 38. 
+
+![Grafico 4](/img/rep1/age.png)
 
 ## Stress in Europe during the COVID19 Pandemic
 
 The COVID-19 pandemic has sparked many changes in individuals’ lives. For instance, individuals have endured increased restrictions on personal freedom, limitations on their work routine and ability to work, changes in personal habits, and isolation from friends and loved ones.
 
-![Grafico 5](/img/rep1/stress.png) Individuals’ general stress levels were measured using an established ten-item scale developed by
+![Grafico 5](/img/rep1/stress.png) 
+
+Individuals’ general stress levels were measured using an established ten-item scale developed by
 psychologists Cohen, Karmak, and Mermelstrein (1983). This scale measures participants’ stress during the last week by using indicators of  stress responses, for instance, perceived lack of control over events, pressure from mounting difficulties and feeling upset about unexpected changes. Levels of stress were moderate or lower in many countries. Poland and Portugal reported the highest levels of stress in Europe, and Denmark and the Netherlands the lowest.
 
 Levels of stress remained fairly stable over the middle of April, with a small decrease between April 4th and April 13th. Overall levels of stress remained higher in women compared to men throughout the period under consideration.
 
-![Grafico 6](/img/rep1/changestressm.png)![Grafico 7](/img/rep1/changestressf.png)
+<p float="left">
+  <img src="/img/rep1/changestressm.png" width="100" />
+  <img src="/img/rep1/changestressf.png" width="100" /> 
+</p>
 
 ## Sources of Distress among Europeans during the COVID19 Pandemic
 
@@ -94,7 +98,6 @@ Countries in Eastern Europe and Greece reported lower trust in the WHO. Croatia�
 ![Grafico 14](/img/rep1/shiftwho.png)Across European countries, the level of trust towards the WHO remained fairly constant throughout the period under examination. Trust towards the WHO oscillated between an average of 6.78, on March 30th, to 6.94, on April 20th.
 
 
-***
 ***
 **Open science and open access**
 The COVIDiSTRESS global survey is an open science collaboration, mounted by researchers in over 40 countries to rapidly and organically collect data on human experiences of the Coronavirus epidemic 2020.
