@@ -16,7 +16,7 @@ The report describes a series of chosen variables. It focuses on the 75,570 resp
 
 The countries included in the analyses, and the respective sample size, are: **Austria** (279), **Belgium** (557), **Bulgaria** (4,538), **Croatia** (2,909), **Cyprus** (34), **Czech Republic** (1,344), **Denmark** (10,327), **Estonia** (34), **Finland** (20,810), **France** (12,446), **Germany** (1,271), **Greece** (628), **Hungary** (1,427), **Ireland** (209), **Italy** (1,370), **Latvia** (22), **Lithuania** (8,056), **Luxembourg** (59), **Malta** (21), **Netherlands** (1256), **Poland** (3,052), **Portugal** (827), **Romania** (189), **Slovakia** (597), **Slovenia** (21), **Spain** (554), **Sweden** (2,733).
 
-<p float="left">
+<p align="center">
   <img src="/img/rep1/eumap.jpg" width="550" />
 </p>
 
@@ -26,15 +26,21 @@ At the time of writing (April 20th, 2020), data collection is still ongoing. The
 
 Respondents were 74.18% female, 24.63% male. The remaining respondents answered ‘other’ or did not provide an answer.
 
-![Grafico 2](/img/rep1/gender.png)
+<p align="center">
+  <img src="/img/rep1/gender.png" width="300" />
+</p>
 
 The majority of respondents (67.16%) were in full-time, part-time work or self-employed, 16.06% were either unemployed or retired, 16.79% were students.
 
-![Grafico 3](/img/rep1/employment.png)
+<p align="center">
+  <img src="/img/rep1/employment.png" width="300" />
+</p>
 
 The age of the respondents ranged from 18 to 110, with a median age of 38. 
 
-![Grafico 4](/img/rep1/age.png)
+<p align="center">
+  <img src="/img/rep1/age.png" width="300" />
+</p>
 
 ## Stress in Europe during the COVID19 Pandemic
 
