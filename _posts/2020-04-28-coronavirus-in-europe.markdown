@@ -88,7 +88,7 @@ pronounced differences among countries in Europe. Citizens in Denmark and Finlan
 Across Europe, trust towards the national governments’ handling of the pandemic tended to increase over the period of data analyzed. The graph below shows that trust in the governments’ handling has increased from an average of 6.14 during the first week, to an average of 7.58. 
 
 <p align="center">
-  <img src="img/rep1/shifttrust.png" width="500" />
+  <img src="/img/rep1/shifttrust.png" width="500" />
 </p>
 
 In addition, we also asked participants to judge the appropriateness of the countries’ measures in response to the COVID-19 on a scale
