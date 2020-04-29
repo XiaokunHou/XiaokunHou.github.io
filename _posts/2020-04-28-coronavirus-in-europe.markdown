@@ -10,14 +10,16 @@ image: 'https://gatravaglino.github.io/img/rep1/covistress.jpg'
 published: true
 canonical_url: https://gatravaglino.github.io/coronavirus/2020-04-28-coronavirus-in-europe.markdown.html
 ---
-The coronavirus COVID-19 pandemic is an unprecedented health crisis. Nearly a third of the global population is undergoing some form of curfew, isolation, or are being placed under restrictive measures (Kaplan, Frias & McFall-Johnsen, 2020). Therefore, it is not surprising that the spread of COVID-19 could soon turn into a serious psychological, social and political emergency. The COVIDiSTRESS global survey was designed by an international group of social scientists from more than fifty universities to measure the psychological correlates and implications of the current crisis. The study has so far involved more than 150,000 individual respondents from over than 50 different countries, sharing their experience of the human consequences of the crisis. 
+The coronavirus COVID-19 pandemic is an unprecedented health crisis. Here, I present a new report I coauthored with colleagues from the  "COVIDiSTRESS global survey", an open science collaborative network. The report focuses on Europe and can be [downloaded here](https://osf.io/v6wgx/).  
 
-The report describes a series of chosen variables. It focuses on the 75,570 respondents from the 27 countries composing the European Union (EU) who answered the survey between March 30th and April 20th. [Download the report here](https://osf.io/v6wgx/)
+Nearly a third of the global population is undergoing some form of curfew, isolation, or are being placed under restrictive measures (Kaplan, Frias & McFall-Johnsen, 2020). Therefore, the spread of COVID-19 could soon turn into a serious psychological, social and political emergency. The COVIDiSTRESS global survey was designed by an international group of social scientists from more than fifty universities to measure the psychological correlates and implications of the current crisis. The study has so far involved more than 150,000 individual respondents from over than 50 different countries, sharing their experience of the human consequences of the crisis. 
+
+The report describes a series of chosen variables. It focuses on the 75,570 respondents from the 27 countries composing the European Union (EU) who answered the survey between March 30th and April 20th. [Download the report here]()
 
 The countries included in the analyses, and the respective sample size, are: **Austria** (279), **Belgium** (557), **Bulgaria** (4,538), **Croatia** (2,909), **Cyprus** (34), **Czech Republic** (1,344), **Denmark** (10,327), **Estonia** (34), **Finland** (20,810), **France** (12,446), **Germany** (1,271), **Greece** (628), **Hungary** (1,427), **Ireland** (209), **Italy** (1,370), **Latvia** (22), **Lithuania** (8,056), **Luxembourg** (59), **Malta** (21), **Netherlands** (1256), **Poland** (3,052), **Portugal** (827), **Romania** (189), **Slovakia** (597), **Slovenia** (21), **Spain** (554), **Sweden** (2,733).
 
 <p align="center">
-  <img src="/img/rep1/eumap.jpg" width="550" />
+  <img src="/img/rep1/eumap.jpg" width="600" />
 </p>
 
 At the time of writing (April 20th, 2020), data collection is still ongoing. The sample is an organic convenience sample. Results are not descriptive of entire countries, but they provide important insights into the ongoing situation across different countries in Europe.
@@ -85,7 +87,9 @@ pronounced differences among countries in Europe. Citizens in Denmark and Finlan
 
 Across Europe, trust towards the national governments’ handling of the pandemic tended to increase over the period of data analyzed. The graph below shows that trust in the governments’ handling has increased from an average of 6.14 during the first week, to an average of 7.58. 
 
-![Grafico 11](/img/rep1/shifttrust.png)
+<p align="center">
+  <img src="img/rep1/shifttrust.png" width="500" />
+</p>
 
 In addition, we also asked participants to judge the appropriateness of the countries’ measures in response to the COVID-19 on a scale
 from 0 (too little), to 5 (appropriate, the black dashed line in the graph), to 10 (too much). Slovenia and Slovakia were those countries where citizens considered the measures stronger than necessary. Among the countries judging their governments’ response as less than appropriate, there were Hungary and France.![Grafico 12](/img/rep1/appropriate.png)
