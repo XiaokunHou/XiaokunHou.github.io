@@ -92,7 +92,9 @@ Across Europe, trust towards the national governments’ handling of the pandemi
 </p>
 
 In addition, we also asked participants to judge the appropriateness of the countries’ measures in response to the COVID-19 on a scale
-from 0 (too little), to 5 (appropriate, the black dashed line in the graph), to 10 (too much). Slovenia and Slovakia were those countries where citizens considered the measures stronger than necessary. Among the countries judging their governments’ response as less than appropriate, there were Hungary and France.![Grafico 12](/img/rep1/appropriate.png)
+from 0 (too little), to 5 (appropriate, the black dashed line in the graph), to 10 (too much). Slovenia and Slovakia were those countries where citizens considered the measures stronger than necessary. Among the countries judging their governments’ response as less than appropriate, there were Hungary and France.
+
+![Grafico 12](/img/rep1/appropriate.png)
 
 Among the different measures of trust towards government reviewed above, the only one that was directly related to levels of compliance with social distancing directives was trust towards the governments’ efforts to handle the pandemic. In countries that trust their governments’ efforts more, citizens were also more likely to report higher levels of compliance with directives aimed at controlling the spread of the virus. However, France reported higher levels of compliance than the model would predict based on the acceptance of  government efforts. An outlier in the other direction, Latvia reported lower levels of compliance than those the model predicted given levels of trust in the governments’ efforts.
 
