@@ -7,7 +7,7 @@ hero_darken: true
 hero_height: is-large
 hero_link: https://kentpsych.eu.qualtrics.com/jfe/form/SV_2tX2XHOM0uQwJ2R
 hero_link_text: Take part in our research
-show_sidebar: false
+show_sidebar: true
 ---
 
 # Under construction
