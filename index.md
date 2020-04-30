@@ -3,7 +3,6 @@ title: Cultural Processes & Groups Lab
 subtitle: Dr G. A. Travaglino, University of Kent
 layout: page
 callouts: home_callouts
-show_sidebar: false
 hero_darken: true
 hero_height: is-large
 hero_link: https://kentpsych.eu.qualtrics.com/jfe/form/SV_2tX2XHOM0uQwJ2R
