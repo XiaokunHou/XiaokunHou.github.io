@@ -14,7 +14,7 @@ show_sidebar: true
 [Visit my research page here](https://www.researchgate.net/profile/Giovanni_Travaglino)
 
 # Welcome to the CP&G Lab
-In the ***Cultural Processes and Groups*** (CP&G) lab, at the [school of psychology]{https://www.kent.ac.uk/psychology), we are interested in how cultural values and beliefs interact with group dynamics to shape individuals' lives within and across a broad range of different situations. We use a range of methodologies, including experiments, longitudinal and cross-sectional surveys, and quanlitative analyses. The lab is directed by [Dr Giovanni Travaglino](/about/).
+In the ***Cultural Processes and Groups*** (CP&G) lab, at the [school of psychology](https://www.kent.ac.uk/psychology), we are interested in how cultural values and beliefs interact with group dynamics to shape individuals' lives within and across a broad range of different situations. We use a range of methodologies, including experiments, longitudinal and cross-sectional surveys, and quanlitative analyses. The lab is directed by [Dr Giovanni Travaglino](/about/).
 
 ### Research Themes
 Research in the lab spans a range of different themes and research questions. The main ones are:
