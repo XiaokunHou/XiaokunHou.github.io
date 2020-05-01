@@ -3,6 +3,7 @@ title: Contention
 subtitle: The Multidisciplinary Journal of Social Protest
 layout: product
 hero_darken: true
+hero_height: is-small
 image: https://gatravaglino.github.io/img/cont.png
 show_sidebar: false
 features:
