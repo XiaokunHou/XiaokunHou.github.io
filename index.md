@@ -14,11 +14,12 @@ show_sidebar: true
 [Visit my research page here](https://www.researchgate.net/profile/Giovanni_Travaglino)
 
 
-In the *Cultural Processes and Groups* (CP&G) lab, at the [School of Psychology, University of Kent](https://www.kent.ac.uk/psychology){target="_blank", we are interested in how cultural values and beliefs interact with group dynamics to shape individuals' lives within and across a broad range of different situations. We use a range of methodologies, including experiments, longitudinal and cross-sectional surveys, and quanlitative analyses. The lab is directed by [Dr Giovanni Travaglino](/about/).
+In the *Cultural Processes and Groups* (CP&G) lab, at the [School of Psychology, University of Kent](https://www.kent.ac.uk/psychology {target="_blank"}), we are interested in how cultural values and beliefs interact with group dynamics to shape individuals' lives within and across a broad range of different situations. We use a range of methodologies, including experiments, longitudinal and cross-sectional surveys, and quanlitative analyses. The lab is directed by [Dr Giovanni Travaglino](/about/).
 
 Research in the lab spans a range of different themes and research questions. The main ones are:
 
-* Political Behavior and Collective Action: we examine why and when people engage in collective forms of political action, such as protesting, demonstrating or voting. Research in this theme has focussed on Brexit and the Scottish referendum (with [Prof Dominic Abrams](https://www.kent.ac.uk/psychology/people/212/www.kent.ac.uk/psychology/people/212/abrams-dominic){target="_blank"}, or on the cultural bases of radicalization and violent behavior (with [Dr Chanki Moon](https://www.researchgate.net/profile/Chanki_Moon).  
+* Political Behavior and Collective Action: we examine why and when people engage in collective forms of political action, such as protesting, demonstrating or voting. Research in this theme has focussed on Brexit and the Scottish referendum (with [Prof Dominic Abrams](https://www.kent.ac.uk/psychology/people/212/www.kent.ac.uk/psychology/people/212/abrams-dominic){target="_blank"}, or on the cultural bases of radicalization and violent behavior (with [Dr Chanki Moon](https://www.researchgate.net/profile/Chanki_Moon){target="_blank"}.
+
 * The psychology of *social banditry*
 * Organized crime
 * Social Norms and Deviance
