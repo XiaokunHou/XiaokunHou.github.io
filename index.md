@@ -13,15 +13,16 @@ show_sidebar: true
 # Under construction
 [Visit my research page here](https://www.researchgate.net/profile/Giovanni_Travaglino)
 
-# Welcome to the CP&G Lab
-In the ***Cultural Processes and Groups*** (CP&G) lab, at the [school of psychology](https://www.kent.ac.uk/psychology), we are interested in how cultural values and beliefs interact with group dynamics to shape individuals' lives within and across a broad range of different situations. We use a range of methodologies, including experiments, longitudinal and cross-sectional surveys, and quanlitative analyses. The lab is directed by [Dr Giovanni Travaglino](/about/).
+# Welcome to the CP&G Lab's Web Page
+In the ***Cultural Processes and Groups*** (CP&G) lab, at the [school of psychology](https://www.kent.ac.uk/psychology), we are interested in how cultural values and beliefs interact with group dynamics to shape individuals' lives within and across a broad range of different contexts. We use a range of methodologies, including experiments, longitudinal and cross-sectional surveys, and quanlitative analyses. The lab is directed by [Dr Giovanni Travaglino](/about/).
 
-## Research Themes
+## Main Research Themes
 Research in the lab spans a range of different themes and research questions. The main ones are:
 
-* Political Behavior and Collective Action: we examine why and when people engage in collective forms of political action, such as protesting, demonstrating or voting. Research in this theme has focussed on Brexit and the Scottish referendum (with [Prof Dominic Abrams](https://www.kent.ac.uk/psychology/people/212/www.kent.ac.uk/psychology/people/212/abrams-dominic) ), or on the cultural bases of radicalization and violent behavior (with [Dr Chanki Moon](https://www.researchgate.net/profile/Chanki_Moon) ).
+* **Political Behavior and Collective Action:** in this theme we examine why and when people engage in collective forms of political action, including demonstrating and protesting, signing petitions or voting. Research in this theme has focussed on events such as Brexit and the Scottish referendum (with [Prof Dominic Abrams](https://www.kent.ac.uk/psychology/people/212/www.kent.ac.uk/psychology/people/212/abrams-dominic) ), or on the cultural bases of radicalization and violent behavior (with [Dr Chanki Moon](https://www.researchgate.net/profile/Chanki_Moon) ).
 
-* The psychology of *social banditry*
+* **The psychology of *social banditry*:** Not all dissent can be expressed directly. Groups or individuals may sometimes lack the cultural and 
+
 * Organized crime
 * Social Norms and Deviance
 * Social Identity
