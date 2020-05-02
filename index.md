@@ -26,7 +26,7 @@ Cultural process and group dynamics influence each other. **Culture** provides i
 
 In our research, we use a range of methodologies, including experiments, longitudinal and cross-sectional surveys, and quanlitative analyses. The lab is directed by [Dr Giovanni Travaglino](/about/).
 
-## Main Research Themes
+### Main Research Themes
 Research in the lab spans a range of different themes and research questions. The main ones are:
 
 * **Political Behavior and Collective Action:** in this theme we examine why and when people engage in collective forms of political action, including demonstrating and protesting, signing petitions or voting. Research in this theme has focussed on events such as Brexit and the Scottish referendum (with [Prof Dominic Abrams](https://www.kent.ac.uk/psychology/people/212/www.kent.ac.uk/psychology/people/212/abrams-dominic) ), or on the cultural bases of radicalization and violent behavior (with [Dr Chanki Moon](https://www.researchgate.net/profile/Chanki_Moon) ).
@@ -38,7 +38,7 @@ Research in the lab spans a range of different themes and research questions. Th
 
 Our research focuses on different geographical areas, including Italy, China, the UK, Korea and the US, and we launch studies in all these sites.
 
-## The Lab Notebook
+### The Lab Notebook
 We keep a [lab notebook](/notebook/), where we propose analyses of recent topics, summarize research conducted by lab members, and comment on new data. Most posts are written in English, and some are in Italian.
 
 ### Get in Touch
