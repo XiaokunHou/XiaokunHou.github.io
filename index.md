@@ -18,9 +18,11 @@ In the ***Cultural Processes and Groups*** (CP&G) lab, at the [school of psychol
 
 **Culture** is a difficult term to define. At its core, it is a process of signification of  reality, a cluster of meanings, values and practices shared by people who belong to the same group. **Group** is here used very broadly to indicatea entities such as nations, organizations or even the nuclear family. 
 
-Cultural process and group dynamics influence each other. Culture provides individuals with a template of shared symbols that structures their perception and action. Group dynamics, what happens between and within different groups, make culture materialize. The arrengements that come to regulate social life, and groups' institutional practices ultimately shape how culture is expressed. Most of our research takes place at the intersection of these two processes.    
+Cultural process and group dynamics influence each other. **Culture** provides individuals with a template of shared symbols that structures their perception and action. **Group dynamics**, what happens between and within different groups, make culture materialize. The arrengements that come to regulate social life, and groups' institutional practices ultimately shape how culture is expressed. Most of our research takes place at the intersection of these two processes.    
 
-
+<p align="center">
+  <img src="/img/home-vitality.jpg" width="500" />
+</p>
 
 In our research, we use a range of methodologies, including experiments, longitudinal and cross-sectional surveys, and quanlitative analyses. The lab is directed by [Dr Giovanni Travaglino](/about/).
 
