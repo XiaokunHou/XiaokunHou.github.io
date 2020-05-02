@@ -14,7 +14,14 @@ show_sidebar: true
 [Visit my research page here](https://www.researchgate.net/profile/Giovanni_Travaglino)
 
 # Welcome to the CP&G Lab's Web Page
-In the ***Cultural Processes and Groups*** (CP&G) lab, at the [school of psychology](https://www.kent.ac.uk/psychology), we are interested in how cultural values and beliefs interact with group dynamics to shape individuals' lives within and across a broad range of different contexts. We use a range of methodologies, including experiments, longitudinal and cross-sectional surveys, and quanlitative analyses. The lab is directed by [Dr Giovanni Travaglino](/about/).
+In the ***Cultural Processes and Groups*** (CP&G) lab, at the [school of psychology](https://www.kent.ac.uk/psychology), we are interested in how cultural values and beliefs interact with group dynamics to shape individuals' lives within and across a broad range of different contexts. 
+
+**Culture** is a difficult term to define. At its core, it is a process of signification of  reality, a cluster of meanings, values and practices shared by people who belong to the same group. **Group** is here used very broadly to indicatea entities such as nations, organizations or even the nuclear family. 
+
+Cultural process and group dynamics influence each other. Culture provides individuals with a template of shared symbols that structures their perceptions and actions. Group dynamics, what happens between and within different groups, make action possibile and influence how culture is expressed. Most of our research takes place at the intersection of these two factors.    
+
+
+In our research, we use a range of methodologies, including experiments, longitudinal and cross-sectional surveys, and quanlitative analyses. The lab is directed by [Dr Giovanni Travaglino](/about/).
 
 ## Main Research Themes
 Research in the lab spans a range of different themes and research questions. The main ones are:
@@ -23,11 +30,10 @@ Research in the lab spans a range of different themes and research questions. Th
 
 * **The psychology of *social banditry*:** Not all dissent can be expressed directly. Groups or individuals may sometimes lack the cultural and 
 
-* Organized crime
-* Social Norms and Deviance
-* Social Identity
+* **Organized crime**
+* **Groyp Dynamics:** Social Identity, Social Norms, Deviance
 
-Our research focuses on different geographical areas, including Italy, China, the UK, Korea and the US, and we can collect data from all these sites.
+Our research focuses on different geographical areas, including Italy, China, the UK, Korea and the US, and we launch studies in all these sites.
 
 ## The Lab Notebook
 We keep a [lab notebook](/notebook/), where we propose analyses of recent topics, summarize research conducted by lab members, and comment on new data. Most posts are written in English, and some are in Italian.
