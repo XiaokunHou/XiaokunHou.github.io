@@ -11,11 +11,11 @@ show_sidebar: true
 ---
 
 # Welcome to the CP&G Lab's Web Page
-In the ***Cultural Processes and Groups*** (CP&G) lab, at the [school of psychology](https://www.kent.ac.uk/psychology), University of Kent, we are interested in how cultural values and beliefs interact with group dynamics to shape individuals' lives within and across a broad range of different contexts. 
+In the **Cultural Processes and Groups** (CP&G) lab, at the [school of psychology](https://www.kent.ac.uk/psychology), University of Kent, we are interested in how cultural values and beliefs interact with group dynamics to shape individuals' lives within and across a broad range of different contexts. 
 
-**Culture** is a difficult term to define. At its core, it is a process of signification of  reality, a cluster of meanings, values and practices shared by people who belong to the same group. **Group**, here, is used very broadly to indicatea entities such as nations, organizations or even the nuclear family. 
+**Culture** is a difficult term to define. At its core, it is a process of signification of  reality, a cluster of meanings, values and practices shared by people who belong to the same group. **Group**, here, is used very broadly to indicatea entities as different as nations, organizations or even the nuclear family. 
 
-Cultural process and group dynamics influence each other. **Culture** provides individuals with a template of shared symbols that structures their perception and action. **Group dynamics**, that is the arrengements that regulate social life and groups' institutional practices, ultimately shape how culture is expressed and how it materializes. 
+Cultural process and group dynamics influence each other. **Culture** provides individuals with a template of shared symbols that structures their perception and action. **Group dynamics**, that is the arrengements regulating groups' social life and institutional practices, ultimately shape how culture materializes. 
 
 Most of our research takes place at the intersection of these two processes.    
 
@@ -30,7 +30,7 @@ In our research, we use a broad range of methodologies, including experiments, l
 ### Main Research Themes
 Research in the lab spans a range of different themes and research questions. The main ones are:
 
-* **Political Behavior and Collective Action:** in this theme we examine why and when people engage in collective forms of political action, including demonstrating and protesting, signing petitions or voting. Research in this theme has focussed on events such as Brexit and the Scottish referendum (with [Prof Dominic Abrams](https://www.kent.ac.uk/psychology/people/212/www.kent.ac.uk/psychology/people/212/abrams-dominic) ), or on the cultural bases of radicalization and violent behavior in Korea (with [Dr Chanki Moon](https://www.researchgate.net/profile/Chanki_Moon) ).
+* **Political Behavior and Collective Action:** in our research we examine why and when people engage in collective forms of political action, including demonstrating and protesting, signing petitions or voting. Research in this theme has focussed on events such as Brexit and the Scottish referendum (with [Prof Dominic Abrams](https://www.kent.ac.uk/psychology/people/212/www.kent.ac.uk/psychology/people/212/abrams-dominic) ), or on the cultural bases of radicalization and violent behavior in Korea (with [Dr Chanki Moon](https://www.researchgate.net/profile/Chanki_Moon) ). The lab edits [Contention: The Multidisciplinary Journal of Social Protest](/contention/).
 
 * **The psychology of social banditry:** Not all dissent can be expressed directly. Groups or individuals may sometimes lack the cultural and 
 
