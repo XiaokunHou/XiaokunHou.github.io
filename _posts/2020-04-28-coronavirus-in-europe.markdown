@@ -2,7 +2,7 @@
 layout: post
 comments: true
 hero_height: is-small
-title:  "How is the COVID19 Pandemic Affecting European Lives?"
+title:  "How is the COVID19 Pandemic Affecting Europeans' Lives?"
 date: 2020-04-28
 categories: coronavirus report research
 description: "First Report on the COVIDiSTRESS Global Survey"
