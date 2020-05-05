@@ -32,13 +32,13 @@ Research in the lab spans a range of different themes and research questions. Th
 
 * **Political Behavior and Collective Action:** in our research, we examine why and when people engage in collective forms of political action, including demonstrating and protesting, signing petitions or voting. Research in this theme has focussed on events such as Brexit and the Scottish referendum (with [Prof Dominic Abrams](https://www.kent.ac.uk/psychology/people/212/www.kent.ac.uk/psychology/people/212/abrams-dominic) ), or on the cultural bases of radicalization and violent behavior in Korea and the US (with [Dr Chanki Moon](https://www.researchgate.net/profile/Chanki_Moon) ). Related to this theme, the lab edits [Contention: The Multidisciplinary Journal of Social Protest](/contention/).
 
-* **The psychology of vicarious dissent:** Individuals do not always engage in direct forms of political action because they may lack the cultural or practical resources to do so. Individuals may, instead, express their greviances **vicariously**, by supporting illegal or semi-legal actors that disrupt the status quo on their behalf. We have elaborated a new **social banditry framework**, to explain the psychological processes involved in individuals' apprailsas of these actors.
+* **The psychology of vicarious dissent:** Individuals lacking cultural or practical resources to engage in direct forms of political action may express their dissent **vicariously**. This means they may support and legitimize illegal or semi-legal actors that disrupt the status quo on their behalf. We have elaborated a new **social banditry framework**, to explain the psychological processes involved in individuals' apprailsas of different actors. Our research in this theme has focussed on the perceived legitimacy of hackers.
 
-* **Organized crime**
+* **Organized crime**: Criminal organizations are a threat to security, prosperity and democracy. Their ability to control entire territories has often been attributed to the passivity or fear of local populations. We adopt a different approach and examine the cultural bases that may enable these groups to obtain legitimacy. Research in this theme has investigated the role of values and beliefs about masculinity and violence in the perception of criminal organizations.  
 
 * **Groyp Dynamics:** Social Identity, Social Norms, Deviance
 
-Our research focuses on different geographical areas, including Italy, China, the UK, Korea and the US, and we launch studies in all these sites.
+Our research focuses on different geographical areas, including Italy, China, the UK, Korea and the US.
 
 ### The Lab Notebook
 We keep a [lab notebook](/notebook/), where we propose analyses of recent topics, summarize research conducted by lab members, and comment on new data. Most posts are written in English, and some are in Italian.
