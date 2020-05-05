@@ -1,6 +1,6 @@
 ---
 title: Cultural Processes & Groups Lab
-subtitle: Dr G. A. Travaglino, University of Kent
+subtitle: School of Psychology, University of Kent
 layout: page
 callouts: home_callouts
 hero_darken: true
@@ -11,7 +11,7 @@ show_sidebar: true
 ---
 
 # Welcome to the CP&G Lab's Web Page
-In the **Cultural Processes and Groups** (CP&G) lab, at the [school of psychology](https://www.kent.ac.uk/psychology), University of Kent, we are interested in how cultural values and beliefs interact with group dynamics to shape individuals' lives within and across a broad range of different contexts. 
+In the **Cultural Processes and Groups** (CP&G) lab, at the [school of psychology](https://www.kent.ac.uk/psychology), University of Kent, we are interested in how cultural values and beliefs interact with group dynamics to shape individuals' lives within and across a broad range of different contexts. The lab is directed by [Dr Giovanni Travaglino](/about/). 
 
 **Culture** is a difficult term to define. At its core, it is a process of signification of reality, a cluster of meanings, values and practices shared by people who belong to the same group. **Group**, here, is used very broadly to indicatea entities as different as nations, organizations or even the nuclear family. 
 
@@ -19,11 +19,9 @@ In the **Cultural Processes and Groups** (CP&G) lab, at the [school of psycholog
   <img src="/img/home-vitality.jpg" width="500" />
 </p>
 
-Cultural process and group dynamics influence each other. **Culture** provides individuals with a template of shared symbols that structures their perception and action. **Group dynamics**, that is the arrengements regulating social life and groups' institutional practices, ultimately shape how culture materializes and is expressed. 
+Cultural process and group dynamics influence each other. **Culture** provides individuals with a template of shared symbols that structures their perception and action. **Group dynamics**, that is the arrengements regulating social life and groups' institutional practices, ultimately shape how culture materializes and is expressed. Most of our research takes place at the intersection of these two processes.    
 
-Most of our research takes place at the intersection of these two processes.    
-
-In our research, we use a broad range of methodologies, including experiments, longitudinal and cross-sectional surveys, and qualitative analyses. The lab is directed by [Dr Giovanni Travaglino](/about/).
+In our research, we use a broad range of methodologies, including experiments, longitudinal and cross-sectional surveys, and qualitative analyses. 
 
 ### Main Research Themes
 Research in the lab spans a range of different themes and research questions. The main ones are:
