@@ -5,23 +5,13 @@
     - name: Research
       link: /#
       items:
-        - name: Page With Sidebar 
-          link: /page-1/
-        - name: Page Without Sidebar
-          link: /page-2/
-        - name: Page With Menubar
-          link: /page-3/
-        - name: Page With Tabs
-          link: /page-4/
-        - name: Page Without Footer
-          link: /page-5/
-        - name: Page Without Hero
-          link: /page-without-hero/
-        - name: Page With Contents
-          link: /page-with-contents/
-        - name: Landing Page With Callouts
-          link: /landing/
-        - name: Sponsors Page
-          link: /sponsors/
+        - name: Political Behavior 
+          link: /political-behavior/
+        - name: Vicarious Dissent
+          link: /vicarious-dissent/
+        - name: Organized Crime
+          link: /organized-crime/
+        - name: Social Identity
+          link: /social-identity/
     - name: Notebook
       link: /notebook/
