@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Political Behavior and Collective Action
+title: Vicarious Dissent & Social Banditry
 subtitle: Research Theme
 hero_darken: true
 hero_height: is-small
@@ -9,6 +9,5 @@ toc: true
 menubar: example_menu
 show_sidebar: false
 ---
-
 
 ## Under Construction
