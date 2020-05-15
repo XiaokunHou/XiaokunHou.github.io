@@ -31,7 +31,7 @@ Research in the lab spans a range of different themes and research questions. Th
 
 * **Organized crime**: Criminal organizations are a threat to security, prosperity and democracy. They are sometimes able to control entire territories and displace the state, exerting governance over communities. In our research, we examine the cultural values and beliefs that enable these groups to gain legitimacy and social influence among the population. Research in this theme has investigated the role of masculine honor values in individuals' attitudes towards criminal organizations in Southern Italy.
 
-* **Groyp Dynamics:** Individuals' groups, social identities and relationships have important implications for the way in wich they perceive the world. This broad theme includes research on a variety of different domains, such as evaluations of deviants and disloyalty, leadership, group secrecy and social identity and mental health.
+* **Social identity and group dynamics:** Individuals' groups, social identities and relationships have important implications for the way in wich they perceive the world. This broad theme includes research on a variety of different domains, such as evaluations of deviants and disloyalty, leadership, group secrecy and social identity and mental health.
 
 Our research focuses on different geographical areas, including Italy, China, the UK, Korea and the US.
 
