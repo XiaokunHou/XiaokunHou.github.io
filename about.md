@@ -15,8 +15,9 @@ I joined the School of Psychology at the University of Kent in 2015 as Assistant
 <p align="right">
   <img src="/img/gat_profile.jpg" width="500" />
 </p>
-Bla
-![Some Title](/img/gat_profile.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+
+
+<img src="/img/gat_profile.jpg" alt="GAT" width="40%" align="right" hspace="20" vspace="20">
 
 ### Research
 
