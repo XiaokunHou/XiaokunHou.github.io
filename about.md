@@ -8,7 +8,7 @@ hide_footer: true
 menubar: example_menu
 ---
 <img src="/img/gat_profile.jpg" alt="GAT" width="30%" align="right" hspace="20" vspace="20">
-## CP&G Lab Director and Principal investigator
+## CP&G Lab Director
 
 I joined the School of Psychology at the University of Kent in 2015 as Assistant Professor of Social and Organizational Psychology. I obtained my PhD under the supervision of Prof. Dominic Abrams and am currently an affiliated member of the Centre for the Study of Group Processes & Intergroup Relations. I have thought two years at the School of Humanities and Social Science at the Chinese University of Hong Kong (Shenzhen). I funded [Contention](/contention) in 2012 and co-edit the journal now with Dr Benjamin Abrams. 
 
