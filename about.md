@@ -7,7 +7,7 @@ show_sidebar: false
 hide_footer: true
 menubar: example_menu
 ---
-<img src="/img/gat_profile.jpg" alt="GAT" width="30%" align="right" hspace="20" vspace="20">
+<img src="/img/gat_profile.jpg" alt="GAT" width="35%" align="right" hspace="20" vspace="20">
 
 ## CP&G Lab Director
 
@@ -21,7 +21,7 @@ My expertise is in the Social Psychology of Intergroup and Intragroup Processes,
 
 **For a full list of publications (with text) see my profile on [ResearchGate](https://www.researchgate.net/profile/Giovanni_Travaglino).**
 
-*Travaglino, G. A. & Drury, L. (2020). The secret power of criminal organizations: A social psychological approach. New York: Springer. [https://www.springer.com/gp/book/9783030441609]()
+* Travaglino, G. A. & Drury, L. (in press). The secret power of criminal organizations: A social psychological approach. New York: Springer. [Link](https://www.springer.com/gp/book/9783030441609)
 
 * Wang, K., Goldenberg, A., Dorison, C., Miller, J. K., Lerner, J. S., Gross, J., & Psychological Science Accelerator. (accepted in principle). A global test of brief reappraisal interventions on emotions during the COVID-19 pandemic. Nature Human Behaviour. [Preprint](https://springernature.figshare.com/articles/A_global_test_of_brief_reappraisal_interventions_on_emotions_during_the_COVID-19_pandemic_Registered_Report_Stage_1_Protocol_/12302288)
 
