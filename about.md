@@ -19,7 +19,7 @@ My expertise is in the Social Psychology of Intergroup and Intragroup Processes,
 
 ### Selected Publications
 
-**For a full list of publications (with text) see my profile on [ResearchGate](https://www.researchgate.net/profile/Giovanni_Travaglino).**
+**For a full list of publications (with fulltext) see my profile on [ResearchGate](https://www.researchgate.net/profile/Giovanni_Travaglino).**
 
 * Travaglino, G. A., & Moon, C. (under review). Explaining Compliance with Social Distancing Norms during the COVID-19 Pandemic: The Roles of Cultural Orientations, Trust and Self-Conscious Emotions in the US, Italy, and South Korea. [Preprint](https://doi.org/10.31234/osf.io/8yn5b)
 
