@@ -20,6 +20,8 @@ My expertise is in the Social Psychology of Intergroup and Intragroup Processes,
 
 For a full list of publications (with text) see my profile on [ResearchGate](https://www.researchgate.net/profile/Giovanni_Travaglino).
 
+*Travaglino, G. A. & Drury, L. (2020). The secret power of criminal organizations: A social psychological approach. New York: Springer. [https://www.springer.com/gp/book/9783030441609]()
+
 * Wang, K., Goldenberg, A., Dorison, C., Miller, J. K., Lerner, J. S., Gross, J., & Psychological Science Accelerator. (accepted in principle). A global test of brief reappraisal interventions on emotions during the COVID-19 pandemic. Nature Human Behaviour. [Preprint](https://springernature.figshare.com/articles/A_global_test_of_brief_reappraisal_interventions_on_emotions_during_the_COVID-19_pandemic_Registered_Report_Stage_1_Protocol_/12302288)
 
 * Travaglino, G. A., & Moon, C. (in press). Power distance orientation as an antecedent of individuals’ engagement in radical political actions. Group Processes and Intergroup Relations. [Text](https://kar.kent.ac.uk/80717/1/Manuscript_KAR.pdf)
@@ -32,6 +34,19 @@ For a full list of publications (with text) see my profile on [ResearchGate](htt
 
 * Travaglino, G. A. & Abrams, D. (2019). How criminal organisations exert secret power over communities: An intracultural appropriation theory of cultural values and norms. European Review of Social Psychology, 30, 74-122. doi: 10.1080/10463283.2019.1621128 [Text](https://www.researchgate.net/profile/Giovanni_Travaglino/publication/333752159_How_criminal_organisations_exert_secret_power_over_communities_An_intracultural_appropriation_theory_of_cultural_values_and_norms/links/5d048f93458515b055d2afae/How-criminal-organisations-exert-secret-power-over-communities-An-intracultural-appropriation-theory-of-cultural-values-and-norms.pdf)
 
+* Travaglino, G. A. (2017). Support for Anonymous as vicarious dissent: Testing the social banditry framework. Group Processes & Intergroup Relations. doi: 10.1177/1368430217722037 [Text](https://journals.sagepub.com/doi/pdf/10.1177/1368430217722037)
+
+### Selected Invited Talks
+
+* Travaglino, G.A. (August/2019). The State and Its Discontents: Towards a social psychological understanding of mafias and bandits. Sungkyunkwan University.
+
+* Travaglino, G. A. (July/2018). Opposition to organised crime groups in southern Italy: The role of masculine honour ideology. University of Kyoto.
+
+* Travaglino, G. A. & Abrams, D. (Dec/2016). Brexit between borders: A social psychological analysis of the roles of aversion to foreigners and political trust in EU referendum voting intentions. SPSSI-UK Meeting, Queen’s University Belfast. 
+
+* Travaglino, G. A. (May/2016). Passivity or legitimisation? Organised crime in society. University of Rome La Sapienza. 
+
+* Travaglino, G. A. (February/2016). Legitimising Organised Crime: The Social Psychology of Omertà. University of Exeter. 
 
 
 
