@@ -19,7 +19,7 @@ My expertise is in the Social Psychology of Intergroup and Intragroup Processes,
 
 ### Selected Publications
 
-For a full list of publications (with text) see my profile on [ResearchGate](https://www.researchgate.net/profile/Giovanni_Travaglino).
+**For a full list of publications (with text) see my profile on [ResearchGate](https://www.researchgate.net/profile/Giovanni_Travaglino).**
 
 *Travaglino, G. A. & Drury, L. (2020). The secret power of criminal organizations: A social psychological approach. New York: Springer. [https://www.springer.com/gp/book/9783030441609]()
 
