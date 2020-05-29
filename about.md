@@ -21,6 +21,8 @@ My expertise is in the Social Psychology of Intergroup and Intragroup Processes,
 
 **For a full list of publications (with text) see my profile on [ResearchGate](https://www.researchgate.net/profile/Giovanni_Travaglino).**
 
+* Travaglino, G. A., & Moon, C. (under review). Explaining Compliance with Social Distancing Norms during the COVID-19 Pandemic: The Roles of Cultural Orientations, Trust and Self-Conscious Emotions in the US, Italy, and South Korea. (Preprint)[https://doi.org/10.31234/osf.io/8yn5b]
+
 * Travaglino, G. A. & Drury, L. (in press). The secret power of criminal organizations: A social psychological approach. New York: Springer. [Link](https://www.springer.com/gp/book/9783030441609)
 
 * Wang, K., Goldenberg, A., Dorison, C., Miller, J. K., Lerner, J. S., Gross, J., & Psychological Science Accelerator. (accepted in principle). A global test of brief reappraisal interventions on emotions during the COVID-19 pandemic. Nature Human Behaviour. [Preprint](https://springernature.figshare.com/articles/A_global_test_of_brief_reappraisal_interventions_on_emotions_during_the_COVID-19_pandemic_Registered_Report_Stage_1_Protocol_/12302288)
@@ -41,7 +43,7 @@ My expertise is in the Social Psychology of Intergroup and Intragroup Processes,
 
 * Travaglino, G.A. (August/2019). The State and Its Discontents: Towards a social psychological understanding of mafias and bandits. Sungkyunkwan University.
 
-* Travaglino, G. A. (July/2018). Opposition to organised crime groups in southern Italy: The role of masculine honour ideology. University of Kyoto.
+* Travaglino, G. A. (July/2018). Opposition to organised crime groups in southern Italy: The role of masculine honour ideology. University of Kyoto. [Abstract](http://kokoro.kyoto-u.ac.jp/1814_giovanni/)
 
 * Travaglino, G. A. & Abrams, D. (Dec/2016). Brexit between borders: A social psychological analysis of the roles of aversion to foreigners and political trust in EU referendum voting intentions. SPSSI-UK Meeting, Queen’s University Belfast. 
 
