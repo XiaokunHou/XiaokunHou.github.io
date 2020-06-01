@@ -11,9 +11,11 @@ published: false
 canonical_url: https://gatravaglino.github.io/coronavirus/2020-06-02-compliance-research.markdown.html
 ---
 
-## La conformità verso le norme di distanziamento sociale in Italia, Stati Uniti e Corea del Sud
+## Distanziamento Sociale
 
+Con il mio collega Chanki Moon, abbiamo recentemente terminato uno studio sulle basi culturali e socio-psicologiche della conformità alle norme di distanziamento sociale. Abbiamo condotto un'indagine statistica di circa 1800 persone da tre paesi diversi, l'Italia, gli Stati Uniti e la Corea del Sud. I risultati sono, al momento, in *peer review* e l'articolo soggetto a modifiche, ma potete già leggerne una prima bozza [qui](https://psyarxiv.com/8yn5b/).
 
+Lo scopo dello studio era quello di capire 
 
 
 
