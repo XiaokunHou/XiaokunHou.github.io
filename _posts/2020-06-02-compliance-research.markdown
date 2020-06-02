@@ -2,10 +2,10 @@
 layout: post
 comments: true
 hero_height: is-small
-title:  "Coronavirus: Le basi psicologiche della conformità alle norme di distanziamento sociali"
+title:  "Coronavirus: le basi psicologiche della conformità alle norme di distanziamento sociali"
 date:   2020-06-02
 categories: coronavirus
-description: "I dati sul coronavirus in Italia, regione per regione"
+description: "Uno studio empirico negli Stati Uniti, Italia e Corea del Sud"
 image: 'https://gatravaglino.github.io/img/corona/flat.jpg'
 published: true
 canonical_url: https://gatravaglino.github.io/coronavirus/2020-06-02-compliance-research.markdown.html
