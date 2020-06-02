@@ -29,7 +29,7 @@ La fiducia nelle azioni governative rappresenta la percezione che il governo sti
 Nello studio, abbiamo chiesto ai partecipanti quanto loro si fidano delle azioni del governo nei confronti del coronavirus (*1 = per nulla, 7 = completamente*). Il grafico sottostante mostra le medie delle risposte divise per Paese:
 
 <p align="center">
-  <img src="/img/res/trust.png" width="400" />
+  <img src="/img/res/trust.png" width="500" />
 </p>
 
 Le persone riportano una fiducia abbastanza alta in Italia (*M =* 5.32) e Corea del Sud (*M =* 5.27). La fiducia è sostanzialmente minore negli Stati Uniti (*M =* 3.43). Per chi sa qualcosa della risposta al coronavirus dell'amministrazione federale statunitense, questo risultato non dovrebbe risultare sorprendente. 
@@ -37,7 +37,7 @@ Le persone riportano una fiducia abbastanza alta in Italia (*M =* 5.32) e Corea 
 Ai partecipanti è stato anche chiesto la loro aderenza alle norme di distanziamento sociale utilizzando sei items diversi (ad esempio, l'aderenza alle richieste di uscire il meno possibile, o lavarsi spesso le mani). Di questi sei items (misurati su una scala da 1 a 7) è stata fatta la media che rappresenta, quindi, un punteggio complessivo di aderenza alle norme. I risultati, divisi per Paese, sono rappresentati nel grafico sottostante:[^1] 
 
 <p align="center">
-  <img src="/img/res/compliance.png" width="400" />
+  <img src="/img/res/compliance.png" width="500" />
 </p>
 
 In generale, i livelli di aderenza alle norme sono molto alti in Italia (*M =* 6.39) e Stati Uniti (*M =* 6.27), ancor più che in Corea (*M =* 5.68). Questo probabilmente riflette la situazione oggettiva nei diversi Paesi, nei quali - al momento di raccolta dati, in Aprile - le restrizioni imposte e le strategie di contenimento del coronavirus erano diverse.
@@ -47,7 +47,7 @@ In generale, i livelli di aderenza alle norme sono molto alti in Italia (*M =* 6
 Abbiamo poi esaminato se ci fosse un'associazione tra le due misure. Come ipotizzato, i dati mostrano l'esistenza di un'associazione positiva tra la fiducia e l'aderenza alle norme. Le persone che hanno maggiore fiducia nel governo dichiarano anche un grado di aderenza maggiore alle norme di distanziamento sociale. Con un'importante eccezione, come il grafico sottostante mostra. 
 
 <p align="center">
-  <img src="/img/res/regr.png" width="400" />
+  <img src="/img/res/regr.png" width="500" />
 </p>
 
 Il grafico pone sull'asse delle ordinate la fiducia, su quello delle ascisse l'aderenza alle norme, e mostra la relazione lineare tra le due variabili in ogni Paese. Mentre la relazione tra le variabili è positiva sia in Italia che in Corea del Sud (all'aumentare del punteggio di una variabile, aumenta anche il punteggio dell'altra), la relazione negli Stati Uniti è piatta, praticamente indistinguibile (da un punto di vista statistico) dallo zero.[^2]
