@@ -7,7 +7,7 @@ date:   2020-06-02
 categories: coronavirus
 description: "I dati sul coronavirus in Italia, regione per regione"
 image: 'https://gatravaglino.github.io/img/corona/flat.jpg'
-published: false
+published: true
 canonical_url: https://gatravaglino.github.io/coronavirus/2020-06-02-compliance-research.markdown.html
 ---
 
@@ -54,9 +54,13 @@ Il grafico mostra sull'asse delle ordinate la fiducia, su quello delle ascisse l
 
 ### Le basi della fiducia
 
-L'ultimo punto riguarda i valori che predicono la  fiducia nelle azioni del governo nei diversi paesi. In questo studio, noi abbiamo misurato l'approvazione di una combinazione di valori riguardanti l'eguaglianza-diseguaglianza (orizzontalità-verticalità) e independenza-interdipendenza (individualismo-collettivismo). Mentre in Italia e in Corea i valori di orizzontalità e interdipendenza sono associati ad una maggiore di fiducia, negli Stati Uniti sono i valodi di verticalità e interdipendenza che sono associati alla fiducia. 
+L'ultimo punto riguarda i valori socio-culturali che predicono la  fiducia nel governo nei diversi paesi. Per esplorare questa questione, in questo studio, abbiamo misurato l'approvazione di una combinazione di valori riguardanti sia eguaglianza-diseguaglianza (orizzontalità-verticalità) sia independenza-interdipendenza (individualismo-collettivismo). I risultati hanno mostrato che, mentre in Italia e in Corea i valori di orizzontalità e interdipendenza sono associati ad una maggiore fiducia nelle azioni del governo, negli **Stati Uniti** sono i valodi di verticalità e interdipendenza che sono associati alla fiducia. 
 
-In altre parole, la percezione della fiducia nel governo è guidata da sentimenti di connessione agli altri e solidarietà in Italia e Corea, mentre è guidata dall'approvazione delle diseguaglianze tra gruppi negli Stati Uniti. 
+In altre parole, la percezione della fiducia nel governo è guidata da sentimenti di connessione agli altri e eguaglianza in Italia e Corea, mentre è guidata dall'approvazione delle diseguaglianze tra gruppi negli Stati Uniti. 
+
+### Per concludere
+
+Le associazioni tra valori culturali, fiducia nel governo e aderenza alle norme sociali mostrano un pattern abbastanza chiaro. Da questi risultati - dati i metodi utilizzati - non possiamo trarre conclusioni di causa-effetto. Possiamo tuttavia affermare che, ove la fiducia è radicata in solidarietà con gli altri, essa predice una maggiore aderenza a norme che - oltre a proteggere la propria persona - proteggono anche il prossimo. Ove invece questa fiducia è legata alla prevaricazione e l'approvazione di relazioni gerarchiche tra i gruppi, essa non si associa in maniera statisticamente significativa con le norme di distanziamento sociale.
 
 
 
