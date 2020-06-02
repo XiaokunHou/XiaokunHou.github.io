@@ -2,7 +2,7 @@
 layout: post
 comments: true
 hero_height: is-small
-title:  "Coronavirus: le basi psicologiche della conformità alle norme di distanziamento sociali"
+title:  "Coronavirus: le basi psicologiche dell'aderenza alle norme di distanziamento sociali"
 date:   2020-06-02
 categories: coronavirus
 description: "Uno studio empirico negli Stati Uniti, Italia e Corea del Sud"
