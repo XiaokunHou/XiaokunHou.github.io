@@ -64,8 +64,19 @@ Le associazioni tra valori culturali, fiducia nel governo e aderenza alle norme 
 
 
 
+
+
+
+
+
+
 [^1]: Le medie presentate nello studio originale sono lievemente diverse da quelle rappresentate qui perché nello studio stimiamo variabili latenti che hanno maggiore precisione. L'interpretazione dei risultati è identica.
 [^2]: Le bande intorno alle linee rappresentano gli intervalli di confidenza delle nostre stime. Intervalli più stretti indicano un dato più 'preciso'.
+
+
+
+
+
 
 ***
 - Img: Photo by [United Nations COVID-19 Response](https://unsplash.com/@unitednations) on [Unsplash](https://unsplash.com)
