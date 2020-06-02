@@ -11,23 +11,47 @@ published: false
 canonical_url: https://gatravaglino.github.io/coronavirus/2020-06-02-compliance-research.markdown.html
 ---
 
-E questo secolo è arrivata anche la **pandemia**. Era stata predetta dagli scienziati ed ora il nuovo coronavirus COVID-19 imperversa nel mondo. Una pandemia dalle enormi implicazioni geopolitiche e sociali che ha costretto interi paesi a implementare *lockdowns* e norme di distanziamento sociale. 
+Con il nuovo coronavirus COVID-19 che imperversa nel mondo, interi Paesi hanno implementato *lockdowns* e norme di distanziamento sociale. Il rispetto di queste norme è estremamente importante, anche - forse soprattutto - ora che il numero di nuovi contagi sta calando (almeno in Italia). 
 
-Il rispetto di queste norme è importantissimo, anche - forse soprattutto - ora che io numeri di nuovi contagi stanno calando. Il distanziamento rimane una delle poche strategie a nostra disposizione per maneggiare la convivenza con un virus di cui conosciamo ancora poco, ed al quale la maggior parte di noi rimane suscettibile. Quali sono, allora, i valori e le credenze che favoriscono l'aderenza alle norme di distanziamento? A quali "condizioni psicologiche" è più probabile che le persone rispondano in questo modo?     
+Il distanziamento rimane una delle poche strategie a nostra disposizione per maneggiare la convivenza con un virus di cui conosciamo ancora poco. Ma quali sono i valori e le credenze che si associano ad una maggiore aderenza alle norme di distanziamento?
 
-## La conformità alle norme di distanziamento sociale?
+## La fiducia nel governo e l'aderenza alle norme
 
-Con il mio collega Chanki Moon, abbiamo recentemente condotto uno studio sulle basi psicologiche della conformità alle norme di distanziamente sociale. Lo scopo dello studio era quello di capire quali fattori e valori culturali fossero associati al maggior (o minore) rispetto delle norme di distanziamento. Lo studio (al momento in *peer review*) presenta un modello ad equazioni strutturali che quantifica le relazioni tra diverse variabili. Il modello prende in esame molti costrutti diversi, tra cui i sensi di vergogna e colpa, le intenzioni di collaborare con le autorità e di avvertirle quando si pensa di aver contratto l'infezione, o di nasconderlo da amici e familiari. Potete leggerne una bozza [qui](https://psyarxiv.com/8yn5b/).
+Per rispondere a questa questione, con il mio collega Chanki Moon, abbiamo recentemente condotto uno studio volto ad indagare le basi psicologiche della conformità alle norme di distanziamente sociale. Lo studio (al momento in *peer review*) ha coinvolto circa 1800 persone da Stati Uniti, Italia e Corea del Sud, e prende in esame molti costrutti diversi (tra cui anche le response emotive di vergogna e colpa). Una bozza completa dell'articolo è possibile trovarla [qui](https://psyarxiv.com/8yn5b/).
 
-Lo studio ha riguardato circa 1.800 persoe da tre Paesi diversi, l'Italia, gli Stati Uniti e la Corea del Sud. Abbiamo scelto questi paesi perché tutti loro hanno dovuto - sebbene in misura diversa - implementare norme di distanziamento sociale. Inoltre, questi Paesi differiscono nel tipo di valori che li caratterizzano. I valori predominanti negli Stati Uniti sono quelli dell'independenza e della competizione (spesso chiamati verticalità e individualivismo), In Corea del Sud sono quelli legati all'interdependenza dal gruppo, spesso all'interno di relazioni gerarchiche (verticalità e collectivismo), ed in Italia  
+In questo post, intendo mostrare gli effetti della **fiducia** nell'azioni governative - a parer mio una delle variabili più interessanti tra quelle incluse nello studio. La fiducia nelle azioni governative indica quanto le persone ritengono che il governo stia agendo in maniera competente e onesta. La ricerca indica che questa variabile ha un ruolo molto importante perché, in molti contesti diversi, il grado di fiducia è solitamente associato alla volontà di rispettare le regole. 
+
+Ai partecipanti allo studio è stato chiesto quanto loro si fidano dell'azione del loro governo nei confronti del coronavirus (*1 = per nulla, 7 = completamente*). Il grafico sottostante mostra le loro risposte:
+
+<p align="center">
+  <img src="/img/res/tm/trust.png" width="400" />
+</p>
+
+Quattro rappresenta il punto neutrale della scale. Le persone si fidano dell'azione governativa in Italia (*M =* 5.32) e Corea del Sud (*M =* 5.27). La fiducia è tuttavia minore negli Stati Uniti (*M =* 3.43). Per chi ha seguito la risposta dell'amministrazione federale statunitense al coronavirus, questo risultato non è sorprendente. 
+
+Ai partecipanti è stato anche chiesto la loro aderenza a sei norme di distanziamento sociale (ad esempio, quanto loro evitano di uscire inutilmente, quanto spesso si lavano le mani etc). La media di queste sei misure (scala 1-7) rappresenta il punteggio di aderenza alle norme. Le medie divise per paese sono rappresentaste nel grafico sottostante.[^1] 
+
+<p align="center">
+  <img src="/img/res/tm/compliance.png" width="400" />
+</p>
+
+I livelli di aderenza alle norme sono molto alti, in Italia (*M =* 6.39) e Stati Uniti (*M =* 6.27), ancor più che in Corea (*M =* 5.68). Questo probabilmente riflette la situazione oggettiva nei diversi Paesi, nei quali - al momento di raccolta dati, in Aprile - le restrizioni imposte e le strategie di contenimento del coronavirus erano diverse.
+
+## L'associazione tra fiducia e aderenza alle norme
+
+Come ipotizzato, i dati mostrano che la fiducia è associata all'aderenza alle norme. Le persone che hanno maggiore fiducia nel governo, riportano anche un grado di aderenza maggiore alle norme di distanziamento sociale. Con un'importante eccezione, come il grafico sottostante mostra. 
+
+Il grafico rappresenta sull'asse delle ordinate la fiducia e su quello delle ascisse l'aderenza alle norme. Mentre la relazione tra le due variabili è positiva in Italia e Corea (all'aumentare del punteggio di una variabile, aumenta anche il punteggio dell'altra), la linea è piatta negli Stati Uniti, indicando una relazione non distinguibile dallo zero.[^2]  
+
+
+<p align="center">
+  <img src="/img/res/tm/regr.png" width="400" />
+</p>
 
 
 
-In questo post voglio focalizzarmi su un costrutto in particolare. Quello della **fiducia** nell'azione del governo contro il coronavirus. Questa variabile è di primaria importanza perché 
-
-
-
-
+[^1] Le medie presentate nello studio originale sono lievemente diverse da quelle rappresentate qui perché nello studio stimiamo variabili latenti che hanno maggiore precisione. L'interpretazione dei risultati è identica.
+[^2] Le bande intorno alle linee rappresentano gli intervalli di confidenza delle nostre stime. Intervalli più stretti indicano un dato più 'preciso'.
 
 ***
 - Img: Photo by [United Nations COVID-19 Response](https://unsplash.com/@unitednations) on [Unsplash](https://unsplash.com)
