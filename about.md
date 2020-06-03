@@ -11,7 +11,7 @@ menubar: example_menu
 
 ## CP&G Lab Director
 
-I joined the School of Psychology at the University of Kent in 2015 as Assistant Professor of Social and Organizational Psychology. I obtained my PhD under the supervision of Prof. Dominic Abrams and am currently an affiliated member of the Centre for the Study of Group Processes & Intergroup Relations. I have thought two years at the School of Humanities and Social Science at the Chinese University of Hong Kong (Shenzhen). I funded [Contention](/contention) in 2012 and co-edit the journal now with Dr Benjamin Abrams. 
+I joined the School of Psychology at the University of Kent in 2015 as Assistant Professor of Social and Organizational Psychology. I obtained my PhD under the supervision of Prof. Dominic Abrams and am currently an affiliated member of the Centre for the Study of Group Processes & Intergroup Relations. I have thought two years at the School of Humanities and Social Science at the Chinese University of Hong Kong (Shenzhen). In 2012, I started [Contention](/contention) and since 2015 I co-edit the journal with Dr Benjamin Abrams. 
 
 ### Research
 
@@ -21,7 +21,7 @@ My expertise is in the Social Psychology of Intergroup and Intragroup Processes,
 
 **For a full list of publications (with fulltext) see my profile on [ResearchGate](https://www.researchgate.net/profile/Giovanni_Travaglino).**
 
-* Yamada Y., Ćepulić, D. Coll-Martín, T., Debove, S., Gautreau, G. Han, H. Rasmussen, J. Tran T., Travaglino, G.A., COVIDiSTRESS Global Survey Consortium, & Lieberoth, A. (under review). COVIDiSTRESS Global Survey dataset on psychological and behavioural consequences of the COVID-19 outbreak. [Preprint](https://psyarxiv.com/v7cep/)
+* Yamada Y., Ćepulić, D., Coll-Martín, T., Debove, S., Gautreau, G., Han, H., Rasmussen, J., Tran T., Travaglino, G.A., COVIDiSTRESS Global Survey Consortium, & Lieberoth, A. (under review). COVIDiSTRESS Global Survey dataset on psychological and behavioural consequences of the COVID-19 outbreak. [Preprint](https://psyarxiv.com/v7cep/)
 
 * Travaglino, G. A., & Moon, C. (under review). Explaining Compliance with Social Distancing Norms during the COVID-19 Pandemic: The Roles of Cultural Orientations, Trust and Self-Conscious Emotions in the US, Italy, and South Korea. [Preprint](https://doi.org/10.31234/osf.io/8yn5b)
 
