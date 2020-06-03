@@ -21,6 +21,8 @@ My expertise is in the Social Psychology of Intergroup and Intragroup Processes,
 
 **For a full list of publications (with fulltext) see my profile on [ResearchGate](https://www.researchgate.net/profile/Giovanni_Travaglino).**
 
+* Yamada Y., Ćepulić, D. Coll-Martín, T., Debove, S., Gautreau, G. Han, H. Rasmussen, J. Tran T., Travaglino, G.A., COVIDiSTRESS Global Survey Consortium, & Lieberoth, A. (under review). COVIDiSTRESS Global Survey dataset on psychological and behavioural consequences of the COVID-19 outbreak. [Preprint](https://psyarxiv.com/v7cep/)
+
 * Travaglino, G. A., & Moon, C. (under review). Explaining Compliance with Social Distancing Norms during the COVID-19 Pandemic: The Roles of Cultural Orientations, Trust and Self-Conscious Emotions in the US, Italy, and South Korea. [Preprint](https://doi.org/10.31234/osf.io/8yn5b)
 
 * Travaglino, G. A. & Drury, L. (in press). *The secret power of criminal organizations: A social psychological approach*. New York: Springer. [Link](https://www.springer.com/gp/book/9783030441609)
