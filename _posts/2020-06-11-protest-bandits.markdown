@@ -11,7 +11,7 @@ published: false
 canonical_url: https://gatravaglino.github.io/banditry/2020-06-11-protest-bandits.markdown.html
 ---
 
-
+o
 
 
 
