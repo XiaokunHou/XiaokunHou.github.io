@@ -18,11 +18,13 @@ Questo è un articolo che ritengo sia particolarmente importante. È il primo te
 
 ## Il banditismo sociale: protesta tramite altri mezzi
 
-Per esperimere dissenso contro le ingiustizie le persone possono utilizzare vari metodi, tra cui scendere in piazza, votare, o firmare petizioni. Queste attività hanno, tuttavia, un **costo**, in termini di tempo e risorse culturali e materiali. Le persone tendono a prendere parte a queste attività quando ritengono di essere ascoltate dal sistema, e di riuscire a generare cambiamento.
+Per esperimere dissenso contro le ingiustizie le persone possono utilizzare vari metodi, tra cui scendere in piazza, votare, o firmare petizioni. Queste attività hanno, tuttavia, un **costo**, in termini di tempo utilizzato, o risorse culturali e materiali. Le persone, quindi, tendono a prendere parte a queste attività quando ritengono di essere ascoltate dal sistema e di riuscire a generare cambiamento.
 
-Cosa succede quando le persone ritengono di non essere ascoltate dal sistema, di non aver alcun modo di esprimere le proprie rimostranze? 
+Cosa succede quando le persone ritengono di non essere ascoltate dal sistema, e di non aver alcun modo per esprimere le proprie necessità? 
 
-Esistono varie risposte a questa domanda. La radicalizzazione e la violenza possono essere una conseguenza della mancanza di voce politica. Quando gli individui ritengono di non aver alcun modo per essere ascoltati e cambiare le cose, essi possono vedere nella violenza l'unica strada rimasta. Al polo opposto c'è la passività. Gli individui possono concludere che sia inutile fare qualsiasi cosa.
+Esistono varie risposte a questa domanda. La radicalizzazione e la violenza possono essere una conseguenza della mancanza di voce politica. Quando gli individui ritengono di non aver alcun modo per essere ascoltati e cambiare le cose, essi possono vedere nella violenza l'unica strada rimanente. Al polo opposto, c'è la *passività*. Gli individui possono concludere che sia inutile provare a cambiare le cose, abbandonare la strada dell'impegno politico.
+
+Con il mio gruppo di ricerca, abbiamo chiamato l'attenzione sull'esistenza di un ulteriore metodo per esprimere dissenso. Le persone possono legitimmare attori sociali che con le loro azioni (quasi o completamente illegali) disturbano l'andamento del sistema. Abbiamo chiamato questo meccanismo **"banditismo sociale"**, perché questi attori richiamno alla memoria i banditi descritti dal sociologo Hobsbawm. Questi banditi attaccavano le autorità e i ricchi e potenti  
 
 
 
