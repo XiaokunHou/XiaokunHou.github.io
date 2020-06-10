@@ -2,7 +2,7 @@
 layout: post
 comments: true
 hero_height: is-small
-title:  "Protesta con altri mezzi: i banditi sociali"
+title:  "Protesta tramite altri mezzi: la legittimazione dei banditi"
 date:   2020-06-12
 categories: social banditry
 description: "L'effetto dell'efficacia politica e rabbia sul supporto per i banditi sociali"
@@ -16,7 +16,7 @@ canonical_url: https://gatravaglino.github.io/banditry/2020-06-12-protest-bandit
 
 Questo è un articolo che ritengo particolarmente importante. È il primo che scrivo con la mia dottoranda. Ed è il primo a fornire delle evidenze sperimentali per una nuova teoria che ho introdotto nel 2017, chiamata ['Social bandity framework'](https://journals.sagepub.com/doi/full/10.1177/1368430217722037) (*teoria del banditismo sociale*).
 
-## Il banditismo sociale: protesta per altri mezzi
+## Il banditismo sociale: protesta tramite altri mezzi
 
 Per esperimere dissenso contro le ingiustizie si può scendere in piazza, votare, firmare petizioni. Queste attività di protesta hanno un costo, in termini di tempo, risorse culturali, necessità di acquisire informazioni, e mezzi economici. Quindi è più probabile che le persone decidano di impegnarsi in questi modi se loro ritengono che il sistema le ascolti.  
 
