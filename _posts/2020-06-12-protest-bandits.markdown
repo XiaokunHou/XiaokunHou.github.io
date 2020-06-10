@@ -11,7 +11,7 @@ published: false
 canonical_url: https://gatravaglino.github.io/banditry/2020-06-12-protest-bandits.markdown.html
 ---
 
-[Maria Heering] (https://www.kent.ac.uk/psychology/people/328/www.kent.ac.uk/psychology/people/328/heering-maria), [Dominic Abrams](https://www.kent.ac.uk/psychology/people/212/www.kent.ac.uk/psychology/people/212/abrams-dominic) ed io abbiamo recentemente pubblicato un nuovo studio sulla rivista 'Group Processes & Intergroup Relations', intitolato **‘If They Don’t Listen to Us, they Deserve It’: The Effect of External Efficacy and Anger on the Perceived Legitimacy of Hacking**. Il testo completo dello studio (in inglese) è disponibile [qui] (https://kar.kent.ac.uk/81609/3/If%20they%20don%27t%20listen%20to%20us%20they%20deserve%20it.pdf). 
+[Maria Heering](https://www.kent.ac.uk/psychology/people/328/www.kent.ac.uk/psychology/people/328/heering-maria), [Dominic Abrams](https://www.kent.ac.uk/psychology/people/212/www.kent.ac.uk/psychology/people/212/abrams-dominic) ed io abbiamo recentemente pubblicato un nuovo studio sulla rivista 'Group Processes & Intergroup Relations', intitolato **‘If They Don’t Listen to Us, they Deserve It’: The Effect of External Efficacy and Anger on the Perceived Legitimacy of Hacking**. Il testo completo dello studio (in inglese) è disponibile [qui](https://kar.kent.ac.uk/81609/3/If%20they%20don%27t%20listen%20to%20us%20they%20deserve%20it.pdf). 
 
 You can download the article in English [here](https://kar.kent.ac.uk/81609/3/If%20they%20don%27t%20listen%20to%20us%20they%20deserve%20it.pdf). 
 
