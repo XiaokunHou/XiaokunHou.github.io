@@ -2,12 +2,12 @@
 layout: post
 comments: true
 hero_height: is-small
-title:  "Protesta tramite altri mezzi: la legittimazione dei banditi"
+title:  "Protesta tramite altri mezzi: la legittimazione degli hackers"
 date:   2020-06-13
 categories: social banditry
 description: "L'effetto dell'efficacia politica e rabbia sul supporto per i banditi sociali"
 image: 'https://gatravaglino.github.io/img/banditry/anon.jpg'
-published: true
+published: false
 canonical_url: https://gatravaglino.github.io/banditry/2020-06-13-protest-bandits.markdown.html
 ---
 
