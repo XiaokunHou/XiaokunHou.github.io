@@ -26,6 +26,8 @@ Mentre un altro utente:
 
 Voi cosa ne pensate? 
 
+In questo studio noi analizziamo la questione dal punto di vista socio-psicologico.
+
 ### Gli hackers
 
 Sono tanti gli aspetti della nostra vita che hanno luogo online e questo trend continuerà, forse accellerato dalle necessità di distanziamento sociale create dalla pandemia. Questo trend genera nuove opportunità e nuovi rischi. Opportunità di nuove interazioni, connessioni e transazioni (anche economiche). E rischi dovuti alla fragilità dei sistemi informatici ed alle difficoltà legate alla sorveglianza della rete. 
@@ -62,15 +64,27 @@ Il resto della descrizione cambia a seconda della condizione sperimentale a cui 
 
 Ad entrambi i gruppi viene chiesto in che misura si sentono arrabbiati all'episodio. Agli studenti di entrambi i gruppi viene, infine, detto che dopo alcuni giorni dall'episodio vi è un attacco hacker ai danni dei sistemi informatici universitari e viene misura la legittimazione di questo attacco. 
 
-In altre parole, l'esperimento manipola i sentimenti di efficacia politica per comprendere se quest alterazione 
+L'esperimento, quindi, altera sistematicamente i sentimenti di efficacia politica. Ecco i risultati per la rabbia:
+
+<p align="center">
+  <img src="/img/banditry/anger.png" width="500" />
+</p>
+
+E quelli per la legittimazione dell'attacco hacker:
+
+<p align="center">
+  <img src="/img/banditry/legitimacy.png" width="500" />
+</p>
 
 
+Le persone che sentono bassi livelli di efficacia politica provano più rabbia rispetto l'ingiustiza subita e legittimano l'attacco hacker in misura maggiore. Ulteriori analisi mostrano che l'effetto della bassa effica viene sulla maggiore legittimizzazione degli hackers viene trasmesso proprio da maggiori livelli di rabbia contro il sistema ingiusto. 
+
+<p align="center">
+  <img src="/img/banditry/path.png" width="500" />
+</p>
 
 
-
-
-
-
+### Conclusioni
 
 
 
