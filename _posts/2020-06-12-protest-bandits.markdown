@@ -12,11 +12,11 @@ published: false
 canonical_url: https://gatravaglino.github.io/banditry/2020-06-12-protest-bandits.markdown.html
 ---
 
-Nel Dicembre 2019, il collettivo di hackers Anonymous Italia colpisce le piattorme informatiche di alcuni atenei Italiani, pubblicando i dati personali degli utenti sulla rete. I dati includono ID, emails, passaporti, password e qualifiche di docenti e studenti. Il gesto viene rivendicato dal collettivo, e denuncia la scarsa sicurezza delle piattaforme che custodiscono i dati.
+Nel Dicembre 2019, il collettivo di hackers Anonymous Italia colpisce le piattorme informatiche di alcuni atenei Italiani. I dati personali vengono presi e pubblicati sulla rete. Questi dati includono ID, emails, passaporti, password e qualifiche di docenti e studenti. La rivendicazione del collettivo spiega l'atto come una denuncia contro la scarsa sicurezza delle piattaforme che custodiscono i dati, ed una protesta contro gli enormi tagli subiti dal sistema educativo italiano.
 
-Hanno fatto bene? Hanno sbagliato? 
+Quali reazioni vi provoca questo gesto? Queste azioni sono inerentemente ambigue. 
 
-Ecco una risposta (tratta dai commenti al loro [blog](https://anonitaly.blackblogs.org/2019/12/22/cervelli-in-fuga/) ):
+Ecco una risposta tratta dai commenti al loro [blog](https://anonitaly.blackblogs.org/2019/12/22/cervelli-in-fuga/):
 
 > > Condividere le password degli studenti vuol dire danneggiarli, non aiutarli. Che cazzo di colpa ha un dottorando se le università non riescono a difendersi da attacchi così ridicoli? Perché devono pagare gli studenti? Zero supporto per sta stronzata e fidatevi che nessuno della “comunità” la sostiene.
 
