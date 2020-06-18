@@ -7,7 +7,7 @@ date:   2020-06-18
 categories: social banditry
 description: "L'effetto dell'efficacia politica e rabbia sul supporto per i banditi sociali"
 image: 'https://gatravaglino.github.io/img/banditry/anon.jpg'
-published: false
+published: true
 canonical_url: https://gatravaglino.github.io/banditry/2020-06-18-protest-bandits.markdown.html
 ---
 
