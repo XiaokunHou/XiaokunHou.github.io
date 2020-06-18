@@ -3,12 +3,12 @@ layout: post
 comments: true
 hero_height: is-small
 title:  "Protesta tramite altri mezzi: la legittimazione degli hackers"
-date:   2020-06-17
+date:   2020-06-18
 categories: social banditry
 description: "L'effetto dell'efficacia politica e rabbia sul supporto per i banditi sociali"
 image: 'https://gatravaglino.github.io/img/banditry/anon.jpg'
 published: false
-canonical_url: https://gatravaglino.github.io/banditry/2020-06-17-protest-bandits.markdown.html
+canonical_url: https://gatravaglino.github.io/banditry/2020-06-18-protest-bandits.markdown.html
 ---
 
 In Dicembre 2019, il collettivo di hackers *Anonymous Italia* attacca le piattorme informatiche di alcuni atenei Italiani, riesce ad ottenere dei dati personali degli utenti e li pubblica in rete. Questi dati includono ID, emails, passaporti, e passwords di docenti e studenti. Nel rivendicare l'atto, il collettivo spiega che l'attacco è stato una denuncia contro la scarsa sicurezza delle piattaforme che custodiscono i dati universitari, un atto di protesta che richiama l'attenzione sugli enormi tagli subiti dal sistema educativo italiano. In fondo - spiega il collettivo - la scarsa sicurezza delle piattaforme significava che questi dati erano in qualche misura già pubblici. Almeno ora ve ne è consapevolezza.
