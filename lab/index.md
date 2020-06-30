@@ -16,21 +16,25 @@ callouts: false
 
 Research in the lab is conducted in collaboration with experts from different disciplines, institutions, and countries. 
 
+<p>
 <img src="/img/coll/cri.jpg" alt="CRI" width="15%" align="left" hspace="35" vspace="35">
 [Dr Cristina D'Aniello](https://people.uwe.ac.uk/Person/CristinaDAniello)
 Assistant Professor, Criminology
 Faculty of Health and Applied Sciences
-UWE Bristol, UK  
+UWE Bristol, UK
+</p>  
   
     
       
       
    
+<br>
 <img src="/img/coll/ld.jpg" alt="LD" width="15%" align="left" hspace="35" vspace="35">
 [Dr Libby Drury](http://www.bbk.ac.uk/orgpsych/staff/drury-libby)
 Assistant Professor, Organizational Psychology
 Department of Organizational Psychology
-Birkbeck, University of London  
+Birkbeck, University of London
+</br>  
   
   
   
