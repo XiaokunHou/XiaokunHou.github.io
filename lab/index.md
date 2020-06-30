@@ -41,8 +41,8 @@ Birkbeck, University of London<br>
 <br>  
 <br>
 <img src="/img/coll/levine_j.jpg" alt="JL" width="15%" align="left" hspace="35" vspace="35">
-[Prof. John Levine](https://psychology.pitt.edu/people/john-levine-phd)
-Professor Emeritus, Psychology<br> 
+[Prof. John Levine](https://psychology.pitt.edu/people/john-levine-phd)<br> 
+Professor Emeritus, Psychology<br>
 Senior Scientist, Learning Research and Development Center<br> 
 University of Pittsburgh, USA<br> 
 <br>  
