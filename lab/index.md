@@ -25,9 +25,6 @@ UWE Bristol, UK<br>
 <br>
 <br>  
 <br>  
-<br>
-<br>  
-<br>
 <img src="/img/coll/ld.jpg" alt="LD" width="15%" align="left" hspace="35" vspace="35">
 [Dr Libby Drury](http://www.bbk.ac.uk/orgpsych/staff/drury-libby)<br> 
 Assistant Professor, Organizational Psychology<br> 
@@ -37,9 +34,6 @@ Birkbeck, University of London<br>
 <br>
 <br>  
 <br>  
-<br>
-<br>  
-<br>
 <img src="/img/coll/levine_j.jpg" alt="JL" width="15%" align="left" hspace="35" vspace="35">
 [Prof. John Levine](https://psychology.pitt.edu/people/john-levine-phd)<br> 
 Professor Emeritus, Psychology<br>
@@ -49,9 +43,6 @@ University of Pittsburgh, USA<br>
 <br>
 <br>  
 <br>  
-<br>
-<br>  
-<br>
 <img src="/img/coll/cm.jpg" alt="CM" width="15%" align="left" hspace="35" vspace="35">
 [Dr Chanki Moon](https://www.leedsbeckett.ac.uk/staff/dr-chanki-moon/)<br> 
 Assistant Professor, Psychology<br> 
