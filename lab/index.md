@@ -15,7 +15,8 @@ callouts: false
 ## Collaborators
 
 Research in the lab is conducted in collaboration with experts from different disciplines, institutions, and countries. 
-
+<br>
+<br>
 <img src="/img/coll/cri.jpg" alt="CRI" width="15%" align="left" hspace="35" vspace="35">
 
 [Dr Cristina D'Aniello](https://people.uwe.ac.uk/Person/CristinaDAniello)<br> 
