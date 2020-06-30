@@ -48,10 +48,24 @@ University of Pittsburgh, USA<br>
 <br>  
 <br>
 <br>
-<img src="/img/coll/cm.jpg" alt="CM" width="15%" align="left" hspace="35" vspace="35"><br> 
+<img src="/img/coll/cm.jpg" alt="CM" width="15%" align="left" hspace="35" vspace="35">
 
 [Dr Chanki Moon](https://www.leedsbeckett.ac.uk/staff/dr-chanki-moon/)<br> 
 Assistant Professor, Psychology<br> 
 Leeds School of Social Sciences<br> 
 Leeds Beckett University, UK<br> 
+
+
+
+
+
+
+
+| | | 
+|:-------------------------:|:-------------------------:|
+|<img src="/img/coll/cri.jpg" alt="CRI" width="15%" align="left" hspace="35" vspace="35">  [Dr Cristina D'Aniello](https://people.uwe.ac.uk/Person/CristinaDAniello)<br> 
+Assistant Professor, Criminology<br> 
+Faculty of Health and Applied Sciences<br> 
+UWE Bristol, UK<br>  |  <img src="/img/coll/ld.jpg" alt="LD" width="15%" align="left" hspace="35" vspace="35">|<img src="/img/coll/levine_j.jpg" alt="JL" width="15%" align="left" hspace="35" vspace="35">|
+|<img src="/img/coll/cm.jpg" alt="CM" width="15%" align="left" hspace="35" vspace="35"> |
 
