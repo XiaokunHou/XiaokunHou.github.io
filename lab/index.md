@@ -21,6 +21,8 @@ Research in the lab is conducted in collaboration with experts from different di
 Assistant Professor, Criminology<br> 
 Faculty of Health and Applied Sciences<br> 
 UWE Bristol, UK<br>
+<br>
+<br>
 
 ---
 
@@ -29,6 +31,8 @@ UWE Bristol, UK<br>
 Assistant Professor, Organizational Psychology<br> 
 Department of Organizational Psychology<br> 
 Birkbeck, University of London<br> 
+<br>
+<br>
 
 ---
 
@@ -37,6 +41,8 @@ Birkbeck, University of London<br>
 Professor Emeritus, Psychology<br>
 Senior Scientist, Learning Research and Development Center<br> 
 University of Pittsburgh, USA<br> 
+<br>
+<br>
 
 ---
 
@@ -45,5 +51,7 @@ University of Pittsburgh, USA<br>
 Assistant Professor, Psychology<br> 
 Leeds School of Social Sciences<br> 
 Leeds Beckett University, UK<br>
+<br>
+<br>
 
 ---
