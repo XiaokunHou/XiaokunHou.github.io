@@ -56,7 +56,7 @@ Professor Emeritus, Psychology<br>
 Senior Scientist, Learning Research and Development Center<br> 
 University of Pittsburgh, USA<br> 
 <br>
-**Projects**: Secrecy in grouups<br>
+**Projects**: Secrecy in groups<br>
 <br>
 
 ---
