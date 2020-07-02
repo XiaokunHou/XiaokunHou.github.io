@@ -11,7 +11,7 @@ menubar: example_menu
 
 ## CP&G Lab Director
 
-I joined the School of Psychology at the University of Kent in 2015 as Assistant Professor of Social and Organizational Psychology. I obtained my PhD under the supervision of Prof. Dominic Abrams and am currently an affiliated member of the Centre for the Study of Group Processes & Intergroup Relations. I have thought two years at the School of Humanities and Social Science at the Chinese University of Hong Kong (Shenzhen). In 2012, I started [Contention](/contention) and since 2015 I co-edit the journal with Dr Benjamin Abrams. 
+I joined the [School of Psychology](https://www.kent.ac.uk/psychology/people/3308/travaglino-giovanni) at the University of Kent in 2015 as Assistant Professor of Social and Organizational Psychology. I obtained my PhD under the supervision of Prof. Dominic Abrams and am currently an affiliated member of the Centre for the Study of Group Processes & Intergroup Relations. I have thought two years at the School of Humanities and Social Science at the Chinese University of Hong Kong (Shenzhen). In 2012, I started [Contention](/contention) and since 2015 I co-edit the journal with Dr Benjamin Abrams. 
 
 ### Research
 
