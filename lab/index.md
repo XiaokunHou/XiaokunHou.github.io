@@ -14,7 +14,7 @@ callouts: false
 
 ## Collaborators
 
-Research in the lab is conducted in collaboration with experts from different disciplines, institutions, and countries. The main collaborators are:
+Research in the lab is conducted in collaboration with experts from different disciplines, institutions, and countries.
 
 
 <img src="/img/coll/da.jpg" alt="DA" width="10%" align="left" hspace="35" vspace="35">
